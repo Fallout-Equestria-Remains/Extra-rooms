@@ -1,4 +1,4 @@
-# Extra rooms repository for the "Fallout: Equestria Remains"
+# Extra rooms repository
 Add-on rooms for the locations with random generation for the game "Fallout: Equestria Remains".
 
 Directory "[Integrated rooms](/IntegratedRooms)" contain united original rooms by DipFanken AND rooms created by other players, so you might just replace the same file in the "Rooms/*.xml" (do not forget about a backup of the original file!).
@@ -9,6 +9,8 @@ Directory "[Integrated rooms](/IntegratedRooms)" contain united original rooms b
 **Do not post impenetrable and unfinished rooms.** Of course, bugfixes are allowed, but it's better to avoid them.
 
 **Test** every new room **at least twice** before committing.
+
+**Remove your template rooms** before uploading.
 
 ### Advices
 
@@ -25,6 +27,8 @@ Note that map generator isn't ideal and may not understand you. In other words, 
 Imagine different styles of playing for your room, like sniping and telekinesis fight.
 
 Try not to create unreachable places: hoofshoes on the random maps may be generated almost anywhere.
+
+Avoid lack of details as well as over-detailing.
 
 Usually one-sided passages perceived negatively by players.
 
