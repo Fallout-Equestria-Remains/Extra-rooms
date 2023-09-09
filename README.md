@@ -6,7 +6,7 @@ Directory "[Integrated rooms](/IntegratedRooms)" contain united original rooms b
 
 ## General rules for adding rooms
 
-**Do not post impenetrable and unfinished rooms.** Of course, bugfixes are allowed, but it's better to avoid them.
+**Do not post impenetrable and unfinished rooms.** Of course, bugfixes are allowed, but it's better to avoid global room reworking.
 
 **Test** every new room **at least twice** before committing.
 
@@ -24,7 +24,7 @@ Try not to create deadlocks.
 
 Note that map generator isn't ideal and may not understand you. In other words, be predictable for the generator (but not for the players :) ).
 
-Imagine different styles of playing for your room, like sniping and telekinesis fight.
+Imagine different styles of playing for your room, like sniping and telekinesis fight. Make sure high-level skills (e.g. master of telekinesis) will not break the gameplay dramatically.
 
 Try not to create unreachable places: hoofshoes on the random maps may be generated almost anywhere.
 
