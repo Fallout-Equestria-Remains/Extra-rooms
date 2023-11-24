@@ -1,7 +1,9 @@
 # Extra rooms repository
 Add-on rooms for the locations with random generation for the game "Fallout: Equestria Remains".
 
-Directory "[Integrated rooms](/IntegratedRooms)" contain united original rooms by DipFanken AND rooms created by other players, so you might just replace the same file in the "Rooms/*.xml" (do not forget about a backup of the original file!).
+If you just want the rooms, here is [the stable ~~88~~ releases page](https://github.com/Fallout-Equestria-Remains/Extra-rooms/tags).
+
+A bit more deeper, directory "[Integrated rooms](/IntegratedRooms)" contain united original rooms by DipFanken AND rooms created by other players, so you might just replace the same file in the "Rooms/*.xml" (do not forget about a backup of the original file!).
 
 
 ## General rules for adding rooms
