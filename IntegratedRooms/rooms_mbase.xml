@@ -150,6 +150,259 @@
     <doors>0.2.2.0.2.0.0.0.2.0.0.2.0.2.2.3.3.0.0.2.0.0</doors>
     <options tip="vert" />
   </room>
+  <room name="Krlx_восточный.шлюз">
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O._._._._._._._._._._._._._G._I._I._I.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI._I._I._I._G._._._._._._._._._._._._</a>
+    <a>_._._._._._._._._._._._._._G._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._G._._._._O._O._O._._._._._._</a>
+    <a>_._._._._._._._._._._._._._G._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._I._G._._._._O._O._O._._._._._._</a>
+    <a>O._._._._._._._._._А.O.O.O.O.O.O.O.O.O.O.O.O._FЕ._FЕ._FЕ._FЕ._FЕ.OF.O.O.O.O.O.O.O.O.O._._.O.O.O.O.O.O.O.O.O</a>
+    <a>_._._._._._._._._._А._._.O.O.O._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._._._._._._._._._._._._</a>
+    <a>_._._._._._._._._._А._._.O.O.O._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._._._._._._._._._._._._</a>
+    <a>_._._._._._._._._._А._._.O.O.O._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._._._._._._._._._._._._</a>
+    <a>O._Е._Е._Й._Е._Е._Е._Е.O.O.O.O.O.O.O._F._F._F._F._F._F._F._F._F._F._F._F.OF.OU.OU.OU.OU._UЕ._UЕ._UЕ._UЕ.OU.OU.OU.O.O._Б._._._._Е._Е.O</a>
+    <a>_._._._._Й._._._._._._._._._._._F._F._F._F._F._F._F._F._F._F._F._F.OF.OU._O._O._U._U._U._U._U._U._U._U.O.O._Б._._._._._.O</a>
+    <a>_._._._._._Й._._._._._._._._._._F._F._F._F._F._F._F._F._F._F._F._F.OF.OU._U._U._U._U._U._U._U._O._O._O.OO.O._Б._._._._._._</a>
+    <a>_._._._._._._Й._._._._._._._._._F._F._F._F._F._F._F._F._F._F._F._F.OF.OU._U._U._U._U._U._U._U._O._O._U.O.O._Б._._._._._._</a>
+    <a>O._._._._._._И._Е.O.O.O.O.O._UЕ._UЕ._UЕ._UЕ._UЕ._UБ._U._U._U._U._U._U._U._U.OU.OU.OU.OU.OU._UЕ._UЕ._UЕ._UЕ.OU.OU.OU.OU.OU._UБ._U._U._U._U._U.OU</a>
+    <a>_._._._._._И._._._._.O.O.O._U._U._U._U._U._UБ._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._UБ._U._U._U._U._U._U</a>
+    <a>_._._._._И._._._._._.O.O.O._U._U._U._U._U._UБ._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._UБ._U._U._U._U._U._U</a>
+    <a>_._._._И._._._._._._.O.O.O._U._U._U._U._U._UБ._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._UБ._U._U._U._U._U._U</a>
+    <a>O._OЕ._OЕ._Й._._._._._.O.O.O.O._U._U._U._U._U._UБ._U._U._U.O;U.O;U.OU.O.O.O.O.O.O._FЕ._FЙ._FЕ._FЕ._FЕ._FЕ.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O._O._O._._Й._._._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._F._F._F._F._F._F._F._F._FЙ._F._F._F._F._F._._I._I._I._I._I._I._I.OI</a>
+    <a>O.O.O.O.O.O.O._Б._.O._._._C._C._C._C._C._C._C._C._C._C._._.O._F._F._F._F._F._F._F._F._F._FЙ._F._F._F._F._._I._I._I._I._I._I._I._I</a>
+    <a>O._._._._._._._Б._.O._._._C._C._C.OC.OC.OC.OC._C._C._C._._.O._FЕ._FЕ._FЕ.OF._F._F._F._F._F._F._FЙ._F._F._F.O.O.O.O.O.O._I._I._I</a>
+    <a>O._._._._._._._Б._.O._._._C._C._C._G._G._G._G._C._C._C._._.O._F._F._F.OF._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FИ._FЕ._FЕ._MЕ.OM._F._F._F._F.OM._MЕ._MЕ.OM</a>
+    <a>_._._._._._._._Б._._._._._C._C._C._G._G._G._G._C._C._C._._._._F._F._F.OF._F._F._F._F._F._FИ._F._F._F._M._M._M._M._M._M._M._M._M._M</a>
+    <a>_._._._._._._._Б._._._._._C._CИ._CЕ.OC.OC.OC.OC._CЕ._CЙ._C._O._O._._F._F._F._F._F._F._F._F._FИ._F._F._F._F._M._M._M._M._M._M._M._M._M._M</a>
+    <a>_._._._._._._._Б._._._._._CИ._C._C._C._C._C._C._C._C._CЙ._O._O._._F._F._F._F._F._F._F._FИ._F._F._F._F._F._M._M._M._M._M._M._M._M._M._M</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OF.OF.OF</a>
+    <back id="light6" x="8" y="9" />
+    <obj id="enl2" code="KhTnrzA1ofNKmvvK" x="3" y="23" />
+    <obj id="enl2" code="N1YMQnAGH2WzOlze" x="42" y="23" />
+    <obj id="enc1" code="mjUkQS7kfRALfDUm" x="21" y="5" />
+    <obj id="enc1" code="jpgtWnYiskFDyeun" x="27" y="5" turn="-1" />
+    <obj id="term1" code="yWhrFfr1p9hWpMmE" x="38" y="10" />
+    <obj id="term3" code="mOrICP111ac9zhHv" x="29" y="10" />
+    <obj id="stove" code="nNciq3ezQucNLj2a" x="44" y="23" />
+    <obj id="enl1" code="ZspxR9aQiwwVbqIP" x="23" y="3" />
+    <obj id="enl1" code="TKsS1VcRw8LiI1sc" x="25" y="18" />
+    <obj id="hturret" code="xiZxbGovW2SWhhoC" x="38" y="9" />
+    <obj id="enl1" code="GW6ZXC6W3MA27Z8Q" x="30" y="11" />
+    <obj id="player" code="yJgDTDqrICJyb2o7" x="9" y="11" />
+    <obj id="bigexpl" code="UsJiJoKOYxwWephM" x="19" y="16" />
+    <obj id="bigexpl" code="z1V6h7hzEp5j0k39" x="15" y="16" />
+    <obj id="tap" code="P16aBRzBCaCfArGX" x="43" y="23" />
+    <obj id="ccup" code="FJKkN4KcwSu2Lcsa" x="41" y="23" />
+    <obj id="ccup" code="rewjoljlw1NjMXk3" x="40" y="23" />
+    <obj id="wcup" code="OlQ2kU5l9FTJ3DXN" x="43" y="21" />
+    <obj id="wcup" code="f0UTJQzpBWRofW7u" x="41" y="21" />
+    <obj id="fridge" code="MwvyHlw3gEKXzqo4" x="39" y="23" />
+    <obj id="longtable" code="O3zLyWXWGMWOHXXe" x="35" y="23" />
+    <obj id="longtable" code="dItYVwt3EZrfgI4i" x="31" y="19" />
+    <obj id="table4" code="t81o5N9rP3DhTNj9" x="37" y="19" />
+    <obj id="mcrate3" code="zlk09B24hGs0dZoO" x="44" y="3" />
+    <obj id="bigbox" code="cOROXJChZwVaNyce" x="27" y="15" />
+    <obj id="mcrate4" code="wd2whrfRJSUUJ66x" x="13" y="16" />
+    <obj id="mcrate3" code="LjCH0JQ0BeLLNjAa" x="15" y="11" />
+    <obj id="mcrate3" code="Kd52M3togLnj2QsD" x="17" y="21" />
+    <obj id="mcrate2" code="aEXuQtpSIHwrVfvh" x="16" y="3" />
+    <obj id="mcrate2" code="gHcTds0bzP4DPQgu" x="19" y="3" />
+    <obj id="door2" code="qFz2LXnwwqu1KJHz" x="39" y="18" />
+    <obj id="basedoor" code="dq2JdX3GzWkBnnxW" x="24" y="23" />
+    <obj id="wturret" code="Z28trRtlyTHuxonN" x="22" y="19" vis="down" />
+    <obj id="wallsafe" code="pIwZStIZ13NvjaUY" x="17" y="10" />
+    <obj id="basechest" code="EovUzV2BFe6wEfi3" x="28" y="3" />
+    <obj id="table" code="pZ20X2hXREXSA9xV" x="26" y="23" />
+    <obj id="tumba2" code="SbeqJZYe2vP4cTUj" x="9" y="23" />
+    <obj id="trash" code="dIyrzjRXgNOCPQrM" x="28" y="23" />
+    <obj id="case" code="KzNhqNXgxOOhUbu9" x="46" y="7" />
+    <obj id="ammobox" code="dJUZPh3wxI4iamYq" x="42" y="3" />
+    <obj id="explbox" code="VqrwfR1hz8NwCTWA" x="17" y="18" />
+    <obj id="case" code="ZVJQFLmdxqCBOV5Q" x="13" y="14" />
+    <obj id="case" code="loEM2XlCsI7I4cLz" x="26" y="18" />
+    <obj id="case" code="KtJopqiXSf5GEAtA" x="19" y="23" />
+    <obj id="case" code="TG5VxnrMStcjCuJX" x="3" y="17" />
+    <obj id="basedoor" code="v7wAaYKf38dWBThM" x="12" y="11" />
+    <obj id="ammobox" code="woKJW6blofTtVxub" x="10" y="7" />
+    <obj id="table" code="VBXuKFmQlR0c1AuU" x="1" y="7" />
+    <obj id="hatch2" code="eTjFOZGODPAvvuRX" x="37" y="4" />
+    <obj id="septum" code="FQ127Glfs3hd4vWV" x="36" y="3" />
+    <obj id="grate" code="XudfmKsMOnSIlnjw" x="12" y="3" />
+    <back id="light6" x="11" y="21" />
+    <obj id="enl2" code="HYAinCRKtxztvA20" x="18" y="16" />
+    <back id="light6" x="8" y="10" />
+    <back id="light6" x="8" y="11" />
+    <back id="light6" x="11" y="18" />
+    <back id="light6" x="11" y="19" />
+    <back id="light6" x="11" y="20" />
+    <back id="light6" x="11" y="20" />
+    <back id="light6" x="11" y="22" />
+    <back id="light6" x="11" y="23" />
+    <back id="light6" x="30" y="13" />
+    <back id="light6" x="30" y="14" />
+    <back id="light6" x="30" y="15" />
+    <back id="light6" x="37" y="13" />
+    <back id="light6" x="37" y="14" />
+    <back id="light6" x="37" y="15" />
+    <back id="light6" x="36" y="7" />
+    <back id="light6" x="36" y="6" />
+    <back id="light6" x="36" y="5" />
+    <back id="light6" x="31" y="7" />
+    <back id="light6" x="31" y="6" />
+    <back id="light6" x="31" y="5" />
+    <back id="light2" x="41" y="20" />
+    <back id="vents" x="45" y="17" />
+    <back id="vents" x="30" y="2" />
+    <back id="vents" x="17" y="2" />
+    <back id="konstr" x="45" y="4" />
+    <back id="hkonstr" x="0" y="12" />
+    <back id="hkonstr" x="6" y="12" />
+    <back id="konstr" x="44" y="0" />
+    <back id="konstr" x="44" y="16" />
+    <back id="monitor" x="30" y="10" />
+    <back id="pult" x="36" y="9" />
+    <back id="door" x="5" y="5" />
+    <back id="doorbase1" x="43" y="13" />
+    <back id="storage" x="3" y="21" />
+    <back id="storage" x="0" y="21" />
+    <back id="storage" x="11" y="9" />
+    <back id="depot" x="45" y="21" />
+    <back id="vent" x="30" y="17" />
+    <back id="light6" x="8" y="7" />
+    <back id="light6" x="8" y="6" />
+    <back id="light6" x="8" y="5" />
+    <back id="light6" x="8" y="4" />
+    <back id="light6" x="8" y="3" />
+    <back id="light6" x="8" y="2" />
+    <back id="light6" x="8" y="1" />
+    <back id="pult" x="10" y="6" />
+    <back id="komp" x="38" y="13" />
+    <back id="pipe4" x="9" y="15" />
+    <back id="pipe4" x="9" y="13" />
+    <back id="monitor" x="30" y="11" />
+    <back id="monitor" x="29" y="11" />
+    <back id="storage" x="10" y="9" />
+    <back id="vent" x="14" y="22" />
+    <doors>3.3.2.3.2.3.0.0.0.0.0.2.3.3.3.0.3.0.0.0.0.0</doors>
+    <options />
+  </room>
+  <room name="Krlx_дальний.пост">
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>_C._C._C._._._._._._._._.O.O._._._._._._._._._._._._._._F._F._F._F._._._._._F._F._F._F._G._G._G._G._G._G._._._._</a>
+    <a>_C._C._C._._._._._._._._.O.O._._._._._._._._._._._._._._F._F._F._F._._._._._F._F._F._F._G._G._G._G._G._G._._._._</a>
+    <a>_C._C._C._._._._._._._._.O.O._._._._._._._._._._._._._._F._F._F._F._._._._._F._F._F._F._G._G._G._G._G._G._._._._</a>
+    <a>OC._C._C._._._._._._._._.O.O.O._БЕ._Е._Е._Е._Е._Е._Е._Й._._._._._F._F._F._F._._._._._F._F._FЕ._FЕ._Е._Е._Е.O.O.O.O._._А.O</a>
+    <a>OC._C._C._._._._._._._._.O.O.O._Б._._._._._._._._Й._._._._F._F._F._F._._._._._F._F._F._F._._._.O.O._._._._А._</a>
+    <a>O.O.O.O._Е._Е._Е._Е._Е.O.O.O.O.O._Б._._._._.O.O.O.O.O.O.O.O;F._F._F._F._._._._._F._F._F._F._._._._._._._._._А._</a>
+    <a>O._._._._._._._._.O.O.O.O.O._Б._._._._._._._._._._.O.OF.OF.O;F._F._._._._._F._F._F._F._._._._._._._._._А._</a>
+    <a>O._._._._._._._._._._._._._._Б._._._._._O._._._._._._.O.O.O.O.O;._._._._F._F._F._F._._._._._._._И._Е._Е.O</a>
+    <a>_._._._._._._._._._._._._._._Б._._._._._O._._._._._._._.O.O.O.O.O.O;._._F._F._F._F._._._._._._И._._._.O</a>
+    <a>_._._._._._._._._._._._._._._Б._._._._O._O._._._._._._._._.O.O.O.O.O.O.O;F._F._F._F._._._._._И._._._._.O</a>
+    <a>_._._._._._._._._._._._._._._Б._._._._O._O._._._._._._._._._.O.O.O.O.O.OF.OF.O;F._F._._._._И._._._._._.O</a>
+    <a>O._Е._Е._Е._Е._Е._И._Е.O.O.O.O._Е._Е._БЕ._Е._._._O.O._._._._._._._._._._.O.O.O.O.O.OO.OO.O.O._Е._Е._Й._._._._._.O</a>
+    <a>O._._._._._И._._._._._._._._._Б._.O.O.O.O._._._._._._._._._._._._._._._F._O._O._._._._._._Й._._._._._</a>
+    <a>_._._._._И._._._._._._.O.O.O._Б._._._._._._._._._._._._._._._._._._._._F._F._F._._._._._._._Й._._._._</a>
+    <a>_._._._И._._._._._._._._._.O._Б._._._._._._._._._._._._._._._._._._._._F._F._F._._._._._._._._Й._._._</a>
+    <a>O._Е._Е._Й._._._._._._._._._.O.O.O.O.O.O.O._._._.O.O.O.O._Е._Е._Е._Е._АЕ.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>_._._._._Й._._._._._._._._._._._G._F._F._._._._._._._._._._._._._._А.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>_._._._._._Й._._._._._._._._._._G._F._F._._._._._._._._._._._._._._А.O.O.O.O.O.O._K._K._K._K._K._K._K._K.O.O</a>
+    <a>_._._._._._._Й._._._._._._._._._G._F._F._._._._._._._._._._._._._._А._._._._._._._K._K._K._K._K._K._K._K.O.O</a>
+    <a>O.O._БЕ._Е._Е._Е._Е._Е._Е._Е._Е._Е._АЕ.O.O.O.O.O.O.O._._._._._._._._._._._._А._._._._._.O._K._K._K._K._K._K._K._K.O.O</a>
+    <a>O.O._Б._._._._._._._._._._А.O.O.O.O.O.O.O.O.O.O._Е._Е._Е._Е._Е._Е.O.O.O.O.O._Е._Е._Е.O.O.O.O.O.O.O._Б._.O.O</a>
+    <a>_._._Б._._._._.O.O._._._._._._O._O._._._._O._O._._._._._._._._._._._._._._._._._._._._O._O._._._Б._._._</a>
+    <a>_._._Б._._._._._._._._._._._._O._O._._._._O._O._._._._._._._._._._._._._._._._._._._._O._O._._._Б._._._</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._Е._Е._Е._Е.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <back id="vrail" x="21" y="19" />
+    <obj id="enl2" code="YftL1ynm6D4cwpvk" x="25" y="15" />
+    <obj id="enc1" code="Xn7Ai1tdphgHVa9e" x="21" y="7" />
+    <obj id="enc1" code="W0dhAZWWeaG5fYWi" x="44" y="18" />
+    <obj id="knop1" code="BLlkQ0dnHUa58vSF" x="15" y="10" allid="1" allact="move3" />
+    <obj id="knop1" code="pBmzO9P5RBsOFZsE" x="19" y="2" allid="1" allact="move3" />
+    <obj id="knop1" code="W5MbQBldtw373DBB" x="23" y="14" allid="2" allact="move3" />
+    <obj id="knop1" code="PpkimEqrKgZiaxp5" x="19" y="18" allid="2" allact="move3" />
+    <obj id="work" code="upFYB3Mb8fQkNS9f" x="38" y="3" />
+    <obj id="safe" code="yvqhtQfjLC2yidEI" x="11" y="11" />
+    <obj id="basechest" code="ofdqLpcpDNxA3wTM" x="41" y="20" />
+    <obj id="basechest" code="h8TuOuEiW94P6gd6" x="15" y="23" />
+    <obj id="ammobox" code="keJ6pFKtzCaZqXQY" x="9" y="5" />
+    <obj id="instr2" code="rYB1O12LldfKkGcT" x="41" y="2" />
+    <obj id="medbox" code="GhlxKfoHlaZu2lhr" x="35" y="14" />
+    <obj id="ammobox" code="blC70wWuP5Xr457X" x="39" y="20" />
+    <obj id="case" code="t6HaauKSbyOHL2uw" x="42" y="23" />
+    <obj id="case" code="Q0LkCoki3O2GE6lM" x="2" y="15" />
+    <obj id="table" code="O3zZuZT5U0AXum2B" x="24" y="20" />
+    <obj id="table" code="upn5bGFS0d5bY0LV" x="16" y="3" />
+    <obj id="player" code="V9VfPk7vjN8W1EKj" x="34" y="23" />
+    <obj id="player" code="hozAZrFP00Os8UKB" x="1" y="5" />
+    <obj id="trash" code="Q455I32cEKafdm2b" x="36" y="3" />
+    <obj id="door1b" code="DiyF4BZy9aW0b5As" x="37" y="23" />
+    <obj id="mcrate3" code="GQGNPs8cwETq6KhE" x="3" y="11" />
+    <obj id="mcrate4" code="rgw7GLkYtozlxtvQ" x="32" y="20" />
+    <obj id="mcrate4" code="y0vJHl3umk4pJ7pP" x="5" y="23" />
+    <obj id="mcrate3" code="GgHAH4ItCtUqiczo" x="27" y="15" />
+    <obj id="bigbox" code="yyqZUHz5kc8iqIuB" x="4" y="5" />
+    <obj id="door1b" code="Q1DMoMQDgCj1UZHE" x="21" y="23" />
+    <obj id="platform2" code="WJV2Sx17miCvuMg1" x="16" y="6" allid="1">
+      <move dy="6" tstay="30" tmove="60" />
+    </obj>
+    <obj id="platform2" code="OW7T2ttI7WaPNn0H" x="20" y="16" allid="2">
+      <move dy="4" tstay="30" tmove="40" />
+    </obj>
+    <obj id="case" code="zW30u7eqSsdg4Fy2" x="34" y="9" />
+    <obj id="ammobox" code="P83pL5ulf0nc1ACp" x="27" y="6" />
+    <obj id="door1a" code="gOhNkJXwxIyoX2eF" x="18" y="15" />
+    <back id="vrail" x="17" y="9" />
+    <back id="vkonstr" x="7" y="15" />
+    <back id="konstr" x="37" y="0" />
+    <back id="vkonstr" x="7" y="12" />
+    <back id="vkonstr" x="1" y="18" />
+    <back id="vrail" x="17" y="6" />
+    <back id="vrail" x="21" y="16" />
+    <obj id="enl2" code="nGST9ytV0CmaN2tT" x="10" y="19" />
+    <back id="vkonstr" x="7" y="18" />
+    <back id="vkonstr" x="7" y="21" />
+    <back id="vkonstr" x="1" y="12" />
+    <back id="vkonstr" x="1" y="15" />
+    <back id="vkonstr" x="1" y="21" />
+    <back id="hkonstr" x="37" y="4" />
+    <back id="hkonstr" x="31" y="4" />
+    <back id="hkonstr" x="25" y="4" />
+    <back id="hkonstr" x="19" y="4" />
+    <back id="hkonstr" x="13" y="4" />
+    <back id="light6" x="37" y="13" />
+    <back id="light6" x="37" y="14" />
+    <back id="light6" x="37" y="15" />
+    <back id="light6" x="33" y="13" />
+    <back id="light6" x="33" y="14" />
+    <back id="light6" x="33" y="15" />
+    <back id="light6" x="3" y="5" />
+    <back id="light6" x="3" y="4" />
+    <back id="light6" x="3" y="3" />
+    <back id="light6" x="3" y="2" />
+    <back id="light6" x="3" y="1" />
+    <back id="light6" x="18" y="17" />
+    <back id="light6" x="18" y="18" />
+    <back id="light6" x="18" y="19" />
+    <back id="light6" x="14" y="17" />
+    <back id="light6" x="14" y="18" />
+    <back id="light6" x="14" y="19" />
+    <back id="electro" x="30" y="21" />
+    <back id="electro" x="9" y="20" />
+    <back id="electro" x="11" y="20" />
+    <back id="light2" x="39" y="1" />
+    <back id="doorbase1" x="39" y="13" />
+    <back id="doorbase1" x="8" y="9" />
+    <back id="door" x="3" y="21" />
+    <back id="wires2" x="11" y="18" />
+    <back id="wires1" x="11" y="16" />
+    <back id="wires1" x="11" y="14" />
+    <back id="wires1" x="11" y="12" />
+    <obj id="enc1" code="jii3ixufEdGSzcgz" x="25" y="17" />
+    <obj id="ammobox" code="AYHqkd4AGrMgQ3LO" x="1" y="23" />
+    <obj id="enl2" code="VvEVW5YlOVHV2Mzu" x="42" y="15" />
+    <doors>3.3.0.3.0.2.0.0.4.0.0.3.0.3.2.3.2.0.0.2.0.0</doors>
+    <options tip="vert" />
+  </room>
   <room name="Krlx_казармы">
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
     <a>_._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.O.O.O.O.O._._._._</a>
@@ -1064,7 +1317,7 @@
     <a>_._Б._._._._._._._._._._Б._S._S._._.O.O.O._F._F._F._F._F._F._GА._G._G._G._G._F._F._G._G._G._G._GБ._._._._._._._._._O._O._</a>
     <a>_._Б._._._.O;.O.O.O.O.O.O.O.O.O.O.O.O.O.OF.OF.OF.OF._F._F._GА._G._G._G._G._F._F._G._G._G._G._GБ._._._._._._._._._O._O._</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <obj id="filecab" code="HFPZoOCnF01tTMIo" x="6" y="3" />
+    <obj id="explbox" code="sioriPanNbhIVepQ" x="12" y="2" />
     <obj id="hatch2" code="ROiSzYKS75R3vyNQ" x="11" y="14" />
     <obj id="door1b" code="PNP6rzvzPUUy5Kim" x="41" y="19" />
     <obj id="door1b" code="ZYaRUznVnCBciJef" x="41" y="23" />
@@ -1117,7 +1370,7 @@
     <obj id="filecab" code="qK9vpqreD5nqlnBF" x="3" y="3" />
     <obj id="filecab" code="CoWiEsrpyOx7HutP" x="4" y="3" />
     <obj id="weapbox" code="OyqyxjOKzZDwPUBb" x="14" y="22" />
-    <obj id="explbox" code="sioriPanNbhIVepQ" x="12" y="2" />
+    <obj id="filecab" code="HFPZoOCnF01tTMIo" x="6" y="3" />
     <obj id="grate" code="Oi2Ten23JDJmta5R" x="13" y="13" />
     <obj id="case" code="PqbdzGC1sY7OfRsE" x="15" y="13" />
     <obj id="protect" code="IZ22wNnadV2ZUCB7" x="20" y="14" />
@@ -1200,8 +1453,7 @@
     <a>_._._._._._._._._._._.O;.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O;._._._._._._._._._._._._._._._._._._._._._</a>
     <a>_._._._._._._.O;.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O;._._._._._._._._._._._._._._._._._._._</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <back id="vrail" x="18" y="20" />
-    <obj id="mcrate4" code="ycna8qcmmVnyDqw4" x="23" y="7" />
+    <back id="vrail" x="20" y="8" />
     <obj id="bigbox2" code="G7vimPM60asjPl52" x="16" y="7" />
     <obj id="mcrate3" code="rOY2so2tuYUVwVph" x="35" y="23" />
     <obj id="bigbox" code="sMbnxj3FmVp1xUyy" x="22" y="21" />
@@ -1255,6 +1507,9 @@
     <obj id="knop4" code="GjFGpBHY6iex4ZFv" x="22" y="6" allid="2" allact="move3" />
     <obj id="knop1" code="vPKnqrKqMLG7NX8Y" x="22" y="14" allid="2" allact="move3" />
     <obj id="knop4" code="dtYvNWkOInU6ivA6" x="13" y="20" allid="2" allact="move3" />
+    <obj id="basedoor" code="ecOXbymHfVAzeRk3" x="8" y="22" />
+    <obj id="case" code="HyfJeeg4JYe5Gop2" x="46" y="19" />
+    <back id="vrail" x="18" y="20" />
     <back id="vrail" x="17" y="12" />
     <back id="vrail" x="20" y="16" />
     <back id="vrail" x="18" y="12" />
@@ -1268,9 +1523,8 @@
     <back id="vrail" x="15" y="8" />
     <back id="vrail" x="17" y="8" />
     <back id="vrail" x="18" y="8" />
-    <back id="vrail" x="20" y="8" />
+    <obj id="mcrate4" code="ycna8qcmmVnyDqw4" x="23" y="7" />
     <back id="vrail" x="15" y="12" />
-    <obj id="basedoor" code="ecOXbymHfVAzeRk3" x="8" y="22" />
     <back id="vrail" x="20" y="20" />
     <back id="vkonstr" x="33" y="8" />
     <back id="vkonstr" x="33" y="11" />
@@ -1335,7 +1589,6 @@
     <back id="komp" x="39" y="21" />
     <back id="doorbase1" x="35" y="13" />
     <back id="konstr" x="46" y="16" />
-    <obj id="case" code="HyfJeeg4JYe5Gop2" x="46" y="19" />
     <doors>3.3.2.3.3.3.0.0.0.0.0.3.3.0.3.3.3.0.0.0.0.0</doors>
     <options />
   </room>
@@ -1365,7 +1618,7 @@
     <a>_._._._._._._._._._F._F._F._F._F._F._F._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._._._._И._._._._._._._._._._._</a>
     <a>_._._._._._._._._._F._F._F._F._F._F._F._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._._._И._._._._._._._._._._._._</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <obj id="case" code="HGDHbjiONI5hmjBu" x="11" y="17" />
+    <obj id="explbox" code="a60x2hMjxyopKLGY" x="7" y="7" />
     <obj id="door1a" code="MksCMahRf8mvsE2v" x="13" y="7" />
     <obj id="basedoor" code="lwWmd74xCJUFbFRe" x="32" y="7" />
     <obj id="ranger" code="XEiVBgyxEJaBiAGF" x="26" y="15" />
@@ -1415,7 +1668,7 @@
     <obj id="tumba2" code="hKEroa2ffighA7d7" x="4" y="7" />
     <obj id="ccup" code="pyqnGTHANmGLnBrc" x="13" y="19" />
     <obj id="case" code="Vfu1h3po4thJoEro" x="14" y="7" />
-    <obj id="explbox" code="a60x2hMjxyopKLGY" x="7" y="7" />
+    <obj id="case" code="HGDHbjiONI5hmjBu" x="11" y="17" />
     <obj id="trash" code="HQ06aSnd4ZdQepBY" x="26" y="23" />
     <obj id="trash" code="RRCVMjX7tfdU3o74" x="28" y="15" />
     <obj id="area" code="VQEWOfZqK686mnCn" x="23" y="18" w="9" h="3" tileop="0.07" />
@@ -1504,7 +1757,7 @@
     <obj id="basedoor" code="hEHNKCRXlqpus8nU" x="13" y="5" />
     <obj id="enl2" code="W1ikmHjxxao3hroJ" x="17" y="5" />
     <obj id="mine" code="saUZANTRF0w53mFM" x="24" y="23" />
-    <obj id="mine" code="DCqFL14R3SFOCl3R" x="43" y="23" />
+    <obj id="mine" code="DCqFL14R3SFOCl3R" x="42" y="23" />
     <obj id="lov" code="jCI3HbrssU0yPiq9" x="29" y="6" />
     <obj id="trlaser" code="kxzGPm970Tt114t7" x="19" y="5" />
     <obj id="hturret2" code="f7tsUgrkiAdVTFrT" x="8" y="2" />
@@ -1533,7 +1786,7 @@
     <obj id="mcrate3" code="Y202WdCRSnUBeS0B" x="16" y="13" />
     <obj id="bigbox" code="bXl4pKtaDNRoEAXd" x="18" y="23" />
     <obj id="bigbox" code="oWaSgHth3IatYZl8" x="14" y="23" />
-    <obj id="mcrate3" code="VzLZ7rOl4FFIBgKi" x="41" y="23" />
+    <obj id="mcrate3" code="VzLZ7rOl4FFIBgKi" x="40" y="23" />
     <obj id="work" code="UcvI3tRGsTvPSMI0" x="33" y="6" />
     <obj id="mcrate1" code="VQl6UY5jsGzvhPC9" x="1" y="11" />
     <obj id="filecab" code="OFLYrptAMN8cshQM" x="7" y="9" />
@@ -1626,19 +1879,19 @@
     <a>_._._._._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._.O._._.O</a>
     <a>_._._._._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._._._._.O</a>
     <a>_._._._.O._F._F._F.OF._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._.O._._.O</a>
-    <a>O._._.O.O._FЕ._FЕ._FЕ.OF.O._._._.O._._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OF._FЕ._FЕ._FЕ._А.O._._.O</a>
+    <a>O._._.O.O._FЕ._FЕ._FЕ.OF.O._._._.O._._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OF._FЕ._FЕ._FЕ._АЕ.O._._.O</a>
     <a>OU._O._O.O._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._А._._O._O._U</a>
     <a>OU._O._O._._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._А._._O._O._U</a>
     <a>OU._O._O.O._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.OF._F._F._F.O._._O._O._U</a>
-    <a>O._O._O.O._Б._FЕ._FЕ._FЕ.OF.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._._._.O._._._.O.OF._FЕ._FЕ._FЕ.O.O._O._O.O</a>
+    <a>O._O._O.O._БЕ._FЕ._FЕ._FЕ.OF.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._._._.O._._._.O.OF._FЕ._FЕ._FЕ.O.O._O._O.O</a>
     <a>_U._O._O._._Б._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._.O._O._O.OU</a>
     <a>_U._O._O._._Б._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._._._O._O.OU</a>
     <a>_U._O._O._.O._F._F._F.OF._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._.O._O._O.OU</a>
-    <a>O._._.O.O._FЕ._FЕ._FЕ.OF.O._._._.O._._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OF._FЕ._FЕ._FЕ._А.O._._.O</a>
+    <a>O._._.O.O._FЕ._FЕ._FЕ.OF.O._._._.O._._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OF._FЕ._FЕ._FЕ._АЕ.O._._.O</a>
     <a>OU._U._U.O._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._А._._U._U._U</a>
     <a>OU._U._U._._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._А._._U._U._U</a>
     <a>OU._U._U.O._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.OF._F._F._F.O._._U._U._U</a>
-    <a>O._U._U.O._Б._FЕ._FЕ._FЕ.OF.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OF._FЕ._FЕ._FЕ.O.O.OU.OU.O</a>
+    <a>O._U._U.O._БЕ._FЕ._FЕ._FЕ.OF.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OF._FЕ._FЕ._FЕ.O.O.OU.OU.O</a>
     <a>_U._U._U._._Б._F._F._F._F._._._._._._._._.O._._._._._._._._._._._._.O._._._._._._._._._F._F._F._F._._._U._U._U</a>
     <a>_U._U._U._._Б._F._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._._._U._U._U</a>
     <a>_U._U._U._._Б._F._F._F._F._._._;._._._._._._._._._._._._._._._._._._._._._._._._._;._._._F._F._F._F._._._U._U._U</a>
@@ -1813,21 +2066,21 @@
     <back id="rangers" x="40" y="9" />
     <back id="rangers" x="40" y="17" />
     <doors>2.0.3.0.3.3.0.0.4.0.0.2.3.0.3.0.3.0.0.4.0.0</doors>
-    <options tip="vert" />
+    <options tip="vert"/>
   </room>
   <room name="sh_Охраняемая_зона">
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._._._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
     <a>O._._._._._._._._._._._._._._._._._._._._._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._.O</a>
-    <a>_._._._И.O.O.O.O.O.O._._._._._._._._._._._._._F._F._F._F._._._._._._._._._._._._.O.O.O.O.O.O.O._._._</a>
-    <a>_._._И._.O._._._._._._._._._._._._._._._._._._F._F._F._F._._._._._._._._._._._._._._._._._._.O._Е._Е._Е</a>
+    <a>_._._._.O.O.O.O.O.O._._._._._._._._._._._._._F._F._F._F._._._._._._._._._._._._.O.O.O.O.O.O.O._._._</a>
+    <a>_._._И._Е.O._._._._._._._._._._._._._._._._._._F._F._F._F._._._._._._._._._._._._._._._._._._.O._Е._Е._Е</a>
     <a>O._Е._._._._._._._._._._._._._._._._._._._._._F._F._F._F._._._._._._._._._._._._._._._._._._._._._.O</a>
     <a>_._._._._._._.O;.O.O.O.O.O.O._._._._._._._._._._._._._._._._._._._._.O.O.O.O.O.O.O;._._._._._._._</a>
-    <a>_._._._._._.O.O._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.O.O._._._._._._</a>
-    <a>_._._._._._._._._._.O.O.O.O._._.O.O.O.O.O.O.O._._.O.O.O.O.O.O.O._._.O.O.O.O._._._._._._._._._._</a>
+    <a>_._._._._._.O.O.O._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._.O.O.O._._._._._._</a>
+    <a>_._._._._._._._._._._.O.O.O._._.O.O.O.O.O.O.O._._.O.O.O.O.O.O.O._._.O.O.O._._._._._._._._._._._</a>
     <a>O.O.O.O._._.O.O.O.O.O.O.O._._._._._._.O._._._F._F._F._F._._.O._._._._._._.O.O.O.O._._.O.O._._.O.O.O</a>
-    <a>_U._O._O._._._._._._._._._._._._._._._._._._._._F._F._F._F._._._._._._._._._._._._._._._._._._._._O._O._U</a>
-    <a>_U._O._O._._._.O.O.O._Е._Е._Е.O.OU.OU.OU.OU.OU.OU.OU.O._Б._F._F._F._F._А.O.OU.OU.OU.OU.O.O.O.O._._._.O.O._._._._._O._O._U</a>
-    <a>_U._O._O._._И._Е._Е._Е.O._Б._._._._._._._._._.O._._Б._F._F._F._F._А._.O._._._._._._._._._.O.O.O._._._._._O._O._U</a>
+    <a>_U._O._O._._._._._._._._._._._._._._._._._._._._F._F._F._F._._._._._._._._._._._._._._._._._._._._O._O.OU</a>
+    <a>_U._O._O._._._.O.O.O._Е._Е._Е.O.OU.OU.OU.OU.OU.OU.OU.O._Б._F._F._F._F._А.O.OU.OU.OU.OU.O.O.O.O._._._.O.O._._._._._O._O.OU</a>
+    <a>_U._O._O._._И._Е._Е._Е.O._Б._._._._._._._._._.O._._Б._F._F._F._F._А._.O._._._._._._._._._.O.O.O._._._._._O._O.OU</a>
     <a>O._OЕ._OЕ._Е._._._._._._Б._._._._._._._._._._._._Б._._._._._А._._._._Е._Е.O.O.O.O.O.O.O._Е._Е._БЕ._Е._Е._Е._OЕ._OЕ.O</a>
     <a>_U._O._O._._._._._._._Б._._._._._._._._._._._._Б._._._._._А._._._._._._._._._._._._._._._Б._._._._O._O._U</a>
     <a>_U._O._O._._._.O.O.O.O.O,.O;.O:._._._._._._._._._Б._._._._._А._._._._._._._._._._._._._._._Б._._._._O._O._U</a>
@@ -1841,163 +2094,163 @@
     <a>_U._U._U._._._А._._._._._._._._._._._._._А.O._Б._._._._._._._А.O._._._._._._._._._._._._._._._Б._._U._U._U</a>
     <a>_U._U._U._._._А._;._._._._._;._._._._._._._А.O._Б._._._._._._._А.O._._._._._._._._;._._._._._;._._Б._._U._U._U</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._Е._Е._Е._Е.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <obj id="hturret" code="VxzxLNnjVCQLbaS4" x="20" y="11" />
-    <obj id="wallsafe" code="QKOEZDCC1F94JQRT" x="23" y="14" />
-    <obj id="term1" code="WWChqRuQbzsGB74h" x="23" y="13" />
-    <obj id="term2" code="Hi1vPh5IB0JuExGc" x="30" y="13" allid="1" allact="swap" />
-    <obj id="term2" code="fyVOEEJk7Js9pM92" x="17" y="13" allid="1" allact="swap" />
-    <obj id="explbox" code="kPYGEnyy1FWoimwz" x="46" y="19" />
-    <obj id="explbox" code="djvBoQdaViqREe70" x="1" y="15" />
-    <obj id="gutsy" code="nrAcD1uQlJNbTpRk" x="21" y="15" />
-    <obj id="gutsy" code="YBYxZttpTTzMlVSv" x="24" y="15" />
-    <obj id="wallcab" code="P5JOYazIkjIbrU6k" x="2" y="6" />
-    <obj id="wallsafe" code="kYhleVZdeCW353FP" x="24" y="14" />
-    <obj id="ammobox" code="HWnnpx5W8Aygex2z" x="45" y="7" />
-    <obj id="armturret" code="hP7CyLCMwYMZUBIG" x="9" y="7" turn="1" />
-    <obj id="armturret" code="dsNYCNJoyEp6jjxH" x="38" y="7" turn="-1" />
-    <obj id="ammobox" code="cZpwMibp6VMScugi" x="2" y="23" />
-    <obj id="hatch2" code="ZcQT4FXOo9Ul3wrU" x="23" y="7" />
-    <obj id="turret" code="iexlMWlaEIoBH7mI" x="32" y="1" />
-    <obj id="cturret" code="qf4WT6Z4qAH6rlgy" x="20" y="8" />
-    <obj id="cturret" code="da121EcttkgRfPJl" x="27" y="8" />
-    <obj id="door4" code="i1t7PuvOI5bbh8hz" x="28" y="14" allid="1" />
-    <obj id="area" code="N1PWPacuiD0w2gmX" x="34" y="7" h="2" w="9" tileop="0.3" />
-    <obj id="area" code="AOYGpwHsVx4vu9Dm" x="5" y="7" h="2" w="9" tileop="0.3" />
-    <obj id="filecab" code="DrUJjASP5Nk3Fd2O" x="21" y="23" />
-    <obj id="door4" code="DAWhGLIPzYrHsCgM" x="19" y="14" allid="1" />
-    <obj id="trash" code="nJMviZmA1JDc0459" x="27" y="23" />
-    <obj id="wallcab" code="OdF9nWvR2SJcIMlZ" x="23" y="22" />
-    <obj id="hatch2" code="T8e3V1utHvAyauFr" x="30" y="15" />
-    <obj id="cturret" code="PnTQ4Mdpmn6EIctQ" x="39" y="12" />
-    <obj id="hatch2" code="IvDU7OmEOs3cHzjW" x="37" y="16" />
-    <obj id="hatch2" code="sz0tdQruJKk7Vhu1" x="39" y="8" />
-    <obj id="cturret" code="pmHzTIkE4nBG2mgh" x="45" y="9" />
-    <obj id="ranger" code="TQ49BSyrgj4yZDqR" x="37" y="15" />
-    <obj id="locker" code="Rk1ntgDEsfUTBd0G" x="25" y="23" />
-    <obj id="cturret" code="UrTTKOJcsfNyCuHg" x="36" y="19" />
-    <obj id="cturret" code="JZ8ZcKXMa9q7dUzw" x="32" y="20" />
-    <obj id="wturret" code="D0dYSPPSZnqeBoFu" x="43" y="20" />
-    <obj id="filecab" code="dBhvJD7R6TZXjFwr" x="22" y="23" />
-    <obj id="hatch2" code="Wa0HJZeJyeZmuLzi" x="4" y="8" />
-    <obj id="turret" code="oitY4W5xh4J2mLfQ" x="15" y="1" />
-    <obj id="ranger" code="TjCgrdgX1r3RhA8k" x="17" y="6" />
-    <obj id="ranger" code="yxojKTfTuwM7Kb7Y" x="22" y="6" />
-    <obj id="wallcab" code="JLdC2bhv6uqgO0eL" x="44" y="6" />
-    <obj id="trash" code="CKJ96wexOlOZGbVV" x="3" y="7" />
-    <obj id="locker" code="YLw0o0Lnk9DqcBRc" x="31" y="6" />
-    <obj id="locker" code="cDUyCMhIoPveX2nr" x="15" y="6" />
-    <obj id="bookcase" code="k37UTxtHdVMa9Xt3" x="18" y="6" />
-    <obj id="basechest" code="Q3AWh70XHaKuFxGH" x="25" y="6" />
-    <obj id="basechest" code="ZVBKvRsLGrqsMPc6" x="21" y="6" />
-    <obj id="basechest" code="lYN6DgumBtwsUNzz" x="31" y="23" />
-    <obj id="ammobox" code="pjOLvm1WBWNzyds1" x="32" y="22" />
-    <obj id="ammobox" code="SdJZcIsOnTIZK6HC" x="26" y="5" />
-    <obj id="ranger" code="sKzaWabx86nzNAre" x="27" y="6" />
-    <obj id="ranger" code="c02BYjNUCHynNSqh" x="30" y="23" />
-    <obj id="hturret" code="fRyPe8f3No3pMYTe" x="27" y="11" />
-    <obj id="turret" code="tmpZRQjLKPwbY64H" x="20" y="1" />
-    <obj id="wturret" code="UaLbULK8FShBy9bo" x="7" y="12" />
-    <obj id="turret" code="YbnPmSagR1g3vOiV" x="27" y="1" />
-    <obj id="ranger" code="NA35FnFDqaIz3ndk" x="14" y="14" />
-    <obj id="explbox" code="DKm2Ik6nQmrhtnTK" x="13" y="12" />
-    <obj id="ammobox" code="sR5mXpOhG6SLe1cM" x="16" y="14" />
-    <obj id="ammobox" code="WpVb18S8SzZsFAeI" x="17" y="14" />
-    <obj id="area" code="I7W66YpsiDdxP6XQ" x="5" y="15" h="1" w="8" tileop="0.4" />
-    <obj id="area" code="KlcZy1QQsH51wo8G" x="32" y="11" h="2" w="9" tileop="0.25" />
-    <obj id="area" code="W2iarJHulXQHCjtw" x="27" y="18" h="3" w="15" tileop="0.2" />
-    <obj id="armturret" code="pEq0o1LB7nu4n6Gc" x="6" y="20" turn="-1" />
-    <obj id="ranger" code="JY1re9favC3FLA6A" x="11" y="18" turn="1" />
-    <obj id="ranger" code="D0ms6jnihPTkvX3e" x="8" y="23" turn="1" />
-    <obj id="cturret" code="GDMTMGlRQUDEIFF7" x="3" y="17" />
-    <obj id="ammobox" code="BCJqnqjfPqlEGnwx" x="17" y="23" />
-    <obj id="ammobox" code="hPiJwyLqzJyWQ1l3" x="15" y="20" />
-    <obj id="explbox" code="DCCiwjqNKZoh3uxI" x="14" y="20" />
-    <obj id="case" code="gAlmthyS5RWyKmLS" x="32" y="18" />
-    <obj id="case" code="XDOT2ku7LrXtFTV9" x="14" y="18" />
-    <obj id="ammobox" code="GXyc1iiTRjCPwfgt" x="33" y="18" />
-    <obj id="cturret" code="JO99dlAzvdevnziW" x="15" y="11" />
-    <obj id="grate" code="X9ZVoVyS2yrU5olq" x="8" y="13" />
-    <obj id="weapcase" code="xYTD7zXROc1y8b9b" x="6" y="15" />
-    <obj id="instr1" code="jxJNbIHB5rlVus3c" x="37" y="23" />
-    <obj id="basechest" code="Pk35WlaA188uqeJN" x="41" y="11" />
-    <obj id="table" code="iOxUvOS5QF1xz2cK" x="34" y="23" />
-    <obj id="hatch2" code="haQMWvVhxvlWqFW6" x="14" y="7" />
-    <obj id="hatch2" code="C8nQpCdO7CFSqNzt" x="32" y="7" />
-    <obj id="area" code="DgIngfC5K0hjrDGu" x="6" y="21" h="3" w="10" tileop="0.25" />
-    <obj id="table" code="b9VIs7Xq7eLzfGbb" x="12" y="23" />
-    <obj id="ammobox" code="LM2VajIVRZhR909Z" x="13" y="22" />
-    <obj id="ammobox" code="y5OFnZ739zrDE9ql" x="11" y="23" />
-    <obj id="explbox" code="TEuphJt6aZ2QbIgO" x="12" y="22" />
-    <obj id="armturret" code="WiTJE77hl1RGuJwE" x="15" y="23" turn="-1" />
-    <obj id="window1" code="lT9QCTtawf8cPIDd" x="15" y="18" />
-    <obj id="hatch2" code="TzHnjc3NybJNtkIM" x="9" y="16" />
-    <obj id="bigexpl" code="MF6tguMB8eRCCLyM" x="12" y="20" />
-    <obj id="wturret" code="ifH0VirzvRasu9Ji" x="24" y="13" />
-    <obj id="bigexpl" code="umNuzE5F9f4NlnFB" x="13" y="14" />
-    <obj id="area" code="tCC43MFk993TURnB" x="12" y="9" h="2" w="8" tileop="0.25" />
-    <obj id="area" code="pYD3vw3mzkCxiIlO" x="28" y="9" h="2" w="13" tileop="0.25" />
-    <obj id="weapcase" code="Nd33oVNN49piRTfV" x="12.7" y="13" />
-    <obj id="hatch2" code="wYIKqXEWquV36CXt" x="43" y="8" />
-    <obj id="cturret" code="vpAFwBdM9Dd21gzm" x="13" y="17" />
-    <obj id="grate" code="psrOqs33cwbgiZTH" x="14" y="24" />
-    <obj id="window1" code="T9TgusOTsUKgn4t7" x="34" y="9" />
-    <obj id="ranger" code="W2zUv1dZCaVq5LEU" x="24" y="6" />
-    <obj id="ranger" code="dkVHPU3QjbXBJuGp" x="30" y="6" />
-    <obj id="bigmed" code="ekzCj6ndutoVbDup" x="28" y="6" />
-    <obj id="medbox" code="JGAxXHw0qQdjly5i" x="21" y="5" />
-    <obj id="medbox" code="P41F2bAhKzecTwgE" x="24" y="22" />
-    <back id="light6" x="43" y="14" />
-    <back id="light6" x="36" y="15" />
-    <back id="light6" x="15" y="13" />
-    <back id="light6" x="15" y="14" />
-    <back id="light6" x="32" y="13" />
-    <back id="rangers" x="23" y="18" />
-    <back id="rangers" x="23" y="9" />
-    <back id="light6" x="32" y="14" />
-    <back id="light6" x="36" y="14" />
-    <back id="vent" x="30" y="11" />
-    <back id="vent" x="17" y="11" />
-    <back id="vent" x="43" y="10" />
-    <back id="vent" x="44" y="10" />
-    <back id="vent" x="44" y="4" />
-    <back id="rangers" x="23" y="2" />
-    <back id="vent" x="31" y="9" />
-    <back id="vent" x="16" y="9" />
-    <back id="bvent" x="30" y="2" />
-    <back id="bvent" x="36" y="20" />
-    <back id="bvent" x="14" y="2" />
-    <back id="light6" x="43" y="13" />
-    <back id="vent" x="2" y="1" />
-    <back id="vent" x="46" y="1" />
-    <back id="light6" x="27" y="2" />
-    <back id="light6" x="27" y="3" />
-    <back id="light6" x="27" y="4" />
-    <back id="light6" x="27" y="5" />
-    <back id="light6" x="20" y="2" />
-    <back id="light6" x="20" y="3" />
-    <back id="light6" x="20" y="4" />
-    <back id="light6" x="20" y="5" />
-    <back id="light6" x="21" y="17" />
-    <back id="light6" x="21" y="18" />
-    <back id="light6" x="21" y="19" />
-    <back id="light6" x="21" y="20" />
-    <back id="light6" x="26" y="17" />
-    <back id="light6" x="26" y="18" />
-    <back id="light6" x="26" y="19" />
-    <back id="light6" x="26" y="20" />
-    <back id="light6" x="39" y="15" />
-    <back id="light6" x="39" y="14" />
-    <back id="light6" x="36" y="13" />
-    <back id="light6" x="39" y="13" />
-    <back id="light6" x="25" y="12" />
-    <back id="light6" x="25" y="13" />
-    <back id="light6" x="25" y="14" />
-    <back id="light6" x="25" y="15" />
-    <back id="light6" x="22" y="12" />
-    <back id="light6" x="22" y="13" />
-    <back id="light6" x="22" y="14" />
-    <back id="light6" x="22" y="15" />
-    <doors>2.3.3.3.3.3.0.0.4.0.0.2.3.3.3.3.3.0.0.4.0.0</doors>
+    <obj id="hturret" code="VxzxLNnjVCQLbaS4" x="20" y="11"/>
+    <obj id="wallsafe" code="QKOEZDCC1F94JQRT" x="23" y="14"/>
+    <obj id="term1" code="WWChqRuQbzsGB74h" x="23" y="13"/>
+    <obj id="term2" code="Hi1vPh5IB0JuExGc" x="30" y="13" allid="1" allact="swap"/>
+    <obj id="term2" code="fyVOEEJk7Js9pM92" x="17" y="13" allid="1" allact="swap"/>
+    <obj id="explbox" code="kPYGEnyy1FWoimwz" x="46" y="19"/>
+    <obj id="explbox" code="djvBoQdaViqREe70" x="1" y="15"/>
+    <obj id="gutsy" code="nrAcD1uQlJNbTpRk" x="21" y="15"/>
+    <obj id="gutsy" code="YBYxZttpTTzMlVSv" x="24" y="15"/>
+    <obj id="wallcab" code="P5JOYazIkjIbrU6k" x="2" y="6"/>
+    <obj id="wallsafe" code="kYhleVZdeCW353FP" x="24" y="14"/>
+    <obj id="ammobox" code="HWnnpx5W8Aygex2z" x="45" y="7"/>
+    <obj id="armturret" code="hP7CyLCMwYMZUBIG" x="10" y="7" turn="1"/>
+    <obj id="armturret" code="dsNYCNJoyEp6jjxH" x="37" y="7" turn="-1"/>
+    <obj id="ammobox" code="cZpwMibp6VMScugi" x="2" y="23"/>
+    <obj id="hatch2" code="ZcQT4FXOo9Ul3wrU" x="23" y="7"/>
+    <obj id="turret" code="iexlMWlaEIoBH7mI" x="32" y="1"/>
+    <obj id="cturret" code="qf4WT6Z4qAH6rlgy" x="20" y="8"/>
+    <obj id="cturret" code="da121EcttkgRfPJl" x="27" y="8"/>
+    <obj id="door4" code="i1t7PuvOI5bbh8hz" x="28" y="14" allid="1"/>
+    <obj id="area" code="N1PWPacuiD0w2gmX" x="34" y="7" h="2" w="9" tileop="0.3"/>
+    <obj id="area" code="AOYGpwHsVx4vu9Dm" x="5" y="7" h="2" w="9" tileop="0.3"/>
+    <obj id="filecab" code="DrUJjASP5Nk3Fd2O" x="21" y="23"/>
+    <obj id="door4" code="DAWhGLIPzYrHsCgM" x="19" y="14" allid="1"/>
+    <obj id="trash" code="nJMviZmA1JDc0459" x="27" y="23"/>
+    <obj id="wallcab" code="OdF9nWvR2SJcIMlZ" x="23" y="22"/>
+    <obj id="hatch2" code="T8e3V1utHvAyauFr" x="30" y="15"/>
+    <obj id="cturret" code="PnTQ4Mdpmn6EIctQ" x="39" y="12"/>
+    <obj id="hatch2" code="IvDU7OmEOs3cHzjW" x="37" y="16"/>
+    <obj id="hatch2" code="sz0tdQruJKk7Vhu1" x="39" y="8"/>
+    <obj id="cturret" code="pmHzTIkE4nBG2mgh" x="45" y="9"/>
+    <obj id="ranger" code="TQ49BSyrgj4yZDqR" x="37" y="15"/>
+    <obj id="locker" code="Rk1ntgDEsfUTBd0G" x="25" y="23"/>
+    <obj id="cturret" code="UrTTKOJcsfNyCuHg" x="36" y="19"/>
+    <obj id="cturret" code="JZ8ZcKXMa9q7dUzw" x="32" y="20"/>
+    <obj id="wturret" code="D0dYSPPSZnqeBoFu" x="43" y="20"/>
+    <obj id="filecab" code="dBhvJD7R6TZXjFwr" x="22" y="23"/>
+    <obj id="hatch2" code="Wa0HJZeJyeZmuLzi" x="4" y="8"/>
+    <obj id="turret" code="oitY4W5xh4J2mLfQ" x="15" y="1"/>
+    <obj id="ranger" code="TjCgrdgX1r3RhA8k" x="17" y="6"/>
+    <obj id="ranger" code="yxojKTfTuwM7Kb7Y" x="22" y="6"/>
+    <obj id="wallcab" code="JLdC2bhv6uqgO0eL" x="44" y="6"/>
+    <obj id="trash" code="CKJ96wexOlOZGbVV" x="3" y="7"/>
+    <obj id="locker" code="YLw0o0Lnk9DqcBRc" x="31" y="6"/>
+    <obj id="locker" code="cDUyCMhIoPveX2nr" x="15" y="6"/>
+    <obj id="bookcase" code="k37UTxtHdVMa9Xt3" x="18" y="6"/>
+    <obj id="basechest" code="Q3AWh70XHaKuFxGH" x="25" y="6"/>
+    <obj id="basechest" code="ZVBKvRsLGrqsMPc6" x="21" y="6"/>
+    <obj id="basechest" code="lYN6DgumBtwsUNzz" x="31" y="23"/>
+    <obj id="ammobox" code="pjOLvm1WBWNzyds1" x="32" y="22"/>
+    <obj id="ammobox" code="SdJZcIsOnTIZK6HC" x="26" y="5"/>
+    <obj id="ranger" code="sKzaWabx86nzNAre" x="27" y="6"/>
+    <obj id="ranger" code="c02BYjNUCHynNSqh" x="30" y="23"/>
+    <obj id="hturret" code="fRyPe8f3No3pMYTe" x="27" y="11"/>
+    <obj id="turret" code="tmpZRQjLKPwbY64H" x="20" y="1"/>
+    <obj id="wturret" code="UaLbULK8FShBy9bo" x="7" y="12"/>
+    <obj id="turret" code="YbnPmSagR1g3vOiV" x="27" y="1"/>
+    <obj id="ranger" code="NA35FnFDqaIz3ndk" x="14" y="14"/>
+    <obj id="explbox" code="DKm2Ik6nQmrhtnTK" x="13" y="12"/>
+    <obj id="ammobox" code="sR5mXpOhG6SLe1cM" x="16" y="14"/>
+    <obj id="ammobox" code="WpVb18S8SzZsFAeI" x="17" y="14"/>
+    <obj id="area" code="I7W66YpsiDdxP6XQ" x="5" y="15" h="1" w="8" tileop="0.4"/>
+    <obj id="area" code="KlcZy1QQsH51wo8G" x="32" y="11" h="2" w="9" tileop="0.25"/>
+    <obj id="area" code="W2iarJHulXQHCjtw" x="27" y="18" h="3" w="15" tileop="0.2"/>
+    <obj id="armturret" code="pEq0o1LB7nu4n6Gc" x="6" y="20" turn="-1"/>
+    <obj id="ranger" code="JY1re9favC3FLA6A" x="11" y="18" turn="1"/>
+    <obj id="ranger" code="D0ms6jnihPTkvX3e" x="8" y="23" turn="1"/>
+    <obj id="cturret" code="GDMTMGlRQUDEIFF7" x="3" y="17"/>
+    <obj id="ammobox" code="BCJqnqjfPqlEGnwx" x="17" y="23"/>
+    <obj id="ammobox" code="hPiJwyLqzJyWQ1l3" x="15" y="20"/>
+    <obj id="explbox" code="DCCiwjqNKZoh3uxI" x="14" y="20"/>
+    <obj id="case" code="gAlmthyS5RWyKmLS" x="32" y="18"/>
+    <obj id="case" code="XDOT2ku7LrXtFTV9" x="14" y="18"/>
+    <obj id="ammobox" code="GXyc1iiTRjCPwfgt" x="33" y="18"/>
+    <obj id="cturret" code="JO99dlAzvdevnziW" x="15" y="11"/>
+    <obj id="grate" code="X9ZVoVyS2yrU5olq" x="8" y="13"/>
+    <obj id="weapcase" code="xYTD7zXROc1y8b9b" x="6" y="15"/>
+    <obj id="instr1" code="jxJNbIHB5rlVus3c" x="37" y="23"/>
+    <obj id="basechest" code="Pk35WlaA188uqeJN" x="41" y="11"/>
+    <obj id="table" code="iOxUvOS5QF1xz2cK" x="34" y="23"/>
+    <obj id="hatch2" code="haQMWvVhxvlWqFW6" x="14" y="7"/>
+    <obj id="hatch2" code="C8nQpCdO7CFSqNzt" x="32" y="7"/>
+    <obj id="area" code="DgIngfC5K0hjrDGu" x="6" y="21" h="3" w="10" tileop="0.25"/>
+    <obj id="table" code="b9VIs7Xq7eLzfGbb" x="12" y="23"/>
+    <obj id="ammobox" code="LM2VajIVRZhR909Z" x="13" y="22"/>
+    <obj id="ammobox" code="y5OFnZ739zrDE9ql" x="11" y="23"/>
+    <obj id="explbox" code="TEuphJt6aZ2QbIgO" x="12" y="22"/>
+    <obj id="armturret" code="WiTJE77hl1RGuJwE" x="15" y="23" turn="-1"/>
+    <obj id="window1" code="lT9QCTtawf8cPIDd" x="15" y="18"/>
+    <obj id="hatch2" code="TzHnjc3NybJNtkIM" x="9" y="16"/>
+    <obj id="bigexpl" code="MF6tguMB8eRCCLyM" x="12" y="20"/>
+    <obj id="wturret" code="ifH0VirzvRasu9Ji" x="24" y="13"/>
+    <obj id="bigexpl" code="umNuzE5F9f4NlnFB" x="13" y="14"/>
+    <obj id="area" code="tCC43MFk993TURnB" x="12" y="9" h="2" w="8" tileop="0.25"/>
+    <obj id="area" code="pYD3vw3mzkCxiIlO" x="28" y="9" h="2" w="13" tileop="0.25"/>
+    <obj id="weapcase" code="Nd33oVNN49piRTfV" x="12.7" y="13"/>
+    <obj id="hatch2" code="wYIKqXEWquV36CXt" x="43" y="8"/>
+    <obj id="cturret" code="vpAFwBdM9Dd21gzm" x="13" y="17"/>
+    <obj id="grate" code="psrOqs33cwbgiZTH" x="14" y="23"/>
+    <obj id="window1" code="T9TgusOTsUKgn4t7" x="34" y="9"/>
+    <obj id="ranger" code="W2zUv1dZCaVq5LEU" x="24" y="6"/>
+    <obj id="ranger" code="dkVHPU3QjbXBJuGp" x="30" y="6"/>
+    <obj id="bigmed" code="ekzCj6ndutoVbDup" x="28" y="6"/>
+    <obj id="medbox" code="JGAxXHw0qQdjly5i" x="21" y="5"/>
+    <obj id="medbox" code="P41F2bAhKzecTwgE" x="24" y="22"/>
+    <back id="light6" x="43" y="14"/>
+    <back id="light6" x="36" y="15"/>
+    <back id="light6" x="15" y="13"/>
+    <back id="light6" x="15" y="14"/>
+    <back id="light6" x="32" y="13"/>
+    <back id="rangers" x="23" y="18"/>
+    <back id="rangers" x="23" y="9"/>
+    <back id="light6" x="32" y="14"/>
+    <back id="light6" x="36" y="14"/>
+    <back id="vent" x="30" y="11"/>
+    <back id="vent" x="17" y="11"/>
+    <back id="vent" x="43" y="10"/>
+    <back id="vent" x="44" y="10"/>
+    <back id="vent" x="44" y="4"/>
+    <back id="rangers" x="23" y="2"/>
+    <back id="vent" x="31" y="9"/>
+    <back id="vent" x="16" y="9"/>
+    <back id="bvent" x="30" y="2"/>
+    <back id="bvent" x="36" y="20"/>
+    <back id="bvent" x="14" y="2"/>
+    <back id="light6" x="43" y="13"/>
+    <back id="vent" x="2" y="1"/>
+    <back id="vent" x="46" y="1"/>
+    <back id="light6" x="27" y="2"/>
+    <back id="light6" x="27" y="3"/>
+    <back id="light6" x="27" y="4"/>
+    <back id="light6" x="27" y="5"/>
+    <back id="light6" x="20" y="2"/>
+    <back id="light6" x="20" y="3"/>
+    <back id="light6" x="20" y="4"/>
+    <back id="light6" x="20" y="5"/>
+    <back id="light6" x="21" y="17"/>
+    <back id="light6" x="21" y="18"/>
+    <back id="light6" x="21" y="19"/>
+    <back id="light6" x="21" y="20"/>
+    <back id="light6" x="26" y="17"/>
+    <back id="light6" x="26" y="18"/>
+    <back id="light6" x="26" y="19"/>
+    <back id="light6" x="26" y="20"/>
+    <back id="light6" x="39" y="15"/>
+    <back id="light6" x="39" y="14"/>
+    <back id="light6" x="36" y="13"/>
+    <back id="light6" x="39" y="13"/>
+    <back id="light6" x="25" y="12"/>
+    <back id="light6" x="25" y="13"/>
+    <back id="light6" x="25" y="14"/>
+    <back id="light6" x="25" y="15"/>
+    <back id="light6" x="22" y="12"/>
+    <back id="light6" x="22" y="13"/>
+    <back id="light6" x="22" y="14"/>
+    <back id="light6" x="22" y="15"/>
+    <doors>2.3.0.3.3.3.0.0.4.0.0.2.3.3.3.3.3.0.0.4.0.0</doors>
     <options />
   </room>
   <room name="sh_Погрузочный_док">
@@ -4692,6 +4945,156 @@
     <doors>3.3.3.0.3.3.0.0.4.0.0.3.3.3.3.0.3.0.0.4.0.0</doors>
     <options tip="vert" level="1" />
   </room>
+  <room name="Krlx_аналитич.центр">
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>_._._._._._._._._._._._._._._._C._C._C._C._C._C._C._C._C._G._G._F._F._F._F._F._F._F._G._._._._._._._._._._._._._._</a>
+    <a>_._._._._._._._._._._._._._._._C._C._C._C._C._C._C._C._C._G._G._F._F._F._F._F._F._F._G._._._._._._._._._._._._._._</a>
+    <a>_._._._._._._._._._._._._._._._C._C._C._C._C._C._C._C._C._G._G._F._F._F._F._F._F._F._G._._._._._._._._._._._._._._</a>
+    <a>O.O.O.O.O.O._Е._Е._Е._Й._Е._Е._Е._Е.O._CЕ._CЙ._C._C._C._C._C._C.O;C.O.O.O.O.O.O.O.O.O.O.O._Е._Е._Е._Е._Е._Е._Й._Е._Е._Е._Е._Е.O</a>
+    <a>O.O.O.O.O.O._._._._._Й._._._.O.O.O.O.O.O.O.O.O.O.O.OF._F._F._F._F._F._F._F._F.O._._O._O._._._._._Й._._._._._</a>
+    <a>_._._._._._._._._._._И._Е._Е._._G._I._I._I._I.OI.OI._I._I._F._F._F._F._F._O._O._F._F._F._F.O._._O._O._._._._._._Й._._._._</a>
+    <a>_._._._._._._._._._И._._._._._G._I._I._I._I.OI.OI._I._I._F._F._F._F._F._O._O._F._F._F._F.O._._O._O._._._._._._._Й._._._</a>
+    <a>O._._._._._._._Е._Е._Й._._._._._G.O.O.O.O.OF.OF._F._F._F._F._F._F._F._F._F._F._F._F._F.O.O.O.O._БЕ._Е._Е._Е._Е._Е.O.O.O.O</a>
+    <a>_._._._._._._._._._._Й._._._._G.O.O.O.O.OF.O._F._F._F._F._FА._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ.O._._._._Б._._._._._.O.O.O.O</a>
+    <a>_._._._._._._._._._._И._Е._Е._Е._Е.O.OF.OF.OF._F._F._F._F._F._F._FА._F._F._F._F._F._F._F._F._._._._._Б._._._._._._._._.O</a>
+    <a>_._._._._._._._._._И._._._._._._._F._F._F._F._F._F._F._F._F._FА._F._F._F._F._F._F._F._F._._._._._Б._._._._._._._._.O</a>
+    <a>O._Е._Е._Е._Е._Е._Е._Е._Е._Й._._._._._._._F._F._F._F._F._F._F._F._F._FА._F._F._F._F._F._F._F._F.O._._._._Б._._._._._._._._.O</a>
+    <a>_._._._._._._._._._._Й._._._._._._F._F._F._F._F._F._F._F._F._FА._F._F._F._F._F._F._F._F.O._._._._Б._._._._._._._._._</a>
+    <a>_._._._._._._._._._._И._Е._Е._._._._F._F._F._F._F._F._F._F._F._FА._F._F._F._F._F._F._F._F._._._._._Б._._._._._._._._._</a>
+    <a>_._._._._._._._._._И._._._._._._._F._F._F._F._F._F._F._F._F._FА._F._F._F._F._F._F._F._F._._._._._Б._._._._._._._._._</a>
+    <a>OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU._FЕ._FЕ._FЕ._FЕ._FАЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>OU._U._U._U._U._U._U._U._U._U._U.OU.OU.OU.OU.OU.OU.OU._F._F._F._F._FА._F._F._F._F._F._F._F._F._F._F._F.O.O._._._._._._._._._._._._</a>
+    <a>_U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U.OU.OU._F._F._F._F._FА._F._F._F._F._F._F._F._F._F._F._F.O.O._._._._._._._._._._._._</a>
+    <a>_U._U._U._U._U._U.OU._U._U._U._U._U._U._U._U._U.OU.OU._F._F._F._F._FА._F._F._F._F._F._F._F._F._F._F._F.O.O._._._._._._._._._._._._</a>
+    <a>OU._UЕ._UЕ._UЕ.OU.OU.OU._U._U._U._U._U._U._U._U._U.OU.OU._F._F._F._F._FА._F._F._F._F._F._F._F._F._F._F._F.O.O._._._А.OK.OK.OK.OK.OK.OK._KЕ._KЕ.O</a>
+    <a>_U._U._U._U._O._O._O._U._U._U._U._U._U._U._U._U._U._U._F._F._F._F._FА._F._F._F._F._F._F._F._F._F._F._F._._._._._А._K._K._K._K._K._K._K._K.O</a>
+    <a>_U._U._U._U._O._O._O._U._U._U._U._U._U._U._U._U._U._U._F._F._F._F._FА._F._F._F._F._F._F._F._F._F._F._F._._._._._А._K._K._K._K._K._K._K._K.O</a>
+    <a>_U._U._U._U._O._O._O._U._U._U._U._U._U._U._U._U._U._U._F._F._F._F._FА._F._F._F._F._F._F._F._F._F._F._F._._._._._А._K._K._K.O;K.OK.OK.OK.OK.O</a>
+    <a>OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.OU.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <back id="server" x="29" y="16" />
+    <obj id="enl2" code="XeP3U7VVOTOxidg7" x="16" y="15" turn="1" />
+    <obj id="enl2" code="ofCizXPSjRyesHUK" x="43" y="15" turn="-1" />
+    <obj id="enl1" code="CLGzOiu5wtkUfnqB" x="30" y="3" />
+    <obj id="enl1" code="rdXuEMPAvMAO1v69" x="42" y="22" />
+    <obj id="enl1" code="rmAoyT2DVNWm4VKr" x="17" y="4" />
+    <obj id="enl1" code="IHhzv7lsfoXQOThK" x="2" y="3" />
+    <obj id="lov" code="YS5kbn4anIx35N4O" x="40" y="19" />
+    <obj id="cturret" code="fFjtQ1gfgZpgRve3" x="11" y="18" />
+    <obj id="enf1" code="JgwPY7OGvI8Ky9SW" x="19" y="2" />
+    <obj id="enf1" code="bA1HqgCYTLooRsGA" x="25" y="3" />
+    <obj id="basechest" code="YZGzVQbEZANjDiB3" x="12" y="23" />
+    <obj id="basechest" code="CXsKRfNPW9ZU7ZIT" x="26" y="3" />
+    <obj id="inbasedoor" code="fCbLS3viOvn3Urj4" x="2" y="15" />
+    <obj id="inbasedoor" code="Wg7mVv3NgBW9FBjp" x="27" y="15" />
+    <obj id="term1" code="QBoCYhQ8lfdqNSxU" x="33" y="7" />
+    <obj id="basedoor" code="u7jg0j0lbvL8Eefr" x="34" y="23" />
+    <obj id="cturret" code="VFJ89qrApI93oPia" x="31" y="5" />
+    <obj id="basedoor" code="bUAZFVmKEfrn1S6f" x="17" y="23" />
+    <obj id="wallcab" code="O0OhDSuaTNzHssCO" x="23" y="22" />
+    <obj id="wallcab" code="oX89wsJO4PZ1qons" x="32" y="2" />
+    <obj id="wallcab" code="iGKEhAO1iP0Aeylu" x="30" y="2" />
+    <obj id="wallcab" code="Rhf64XrMNJyOAqgP" x="27" y="7" />
+    <obj id="instr1" code="Qapld8YUzaYaWo8K" x="26" y="23" />
+    <obj id="table" code="qZ5RYBrzHxckGhl3" x="4" y="23" />
+    <obj id="explbox" code="EvOpcLDEkCo7bcTW" x="45" y="3" />
+    <obj id="ammobox" code="IHEponeuEzDaU7AJ" x="5" y="19" />
+    <obj id="ammobox" code="fSFrWzVNc6IptLJN" x="1" y="11" />
+    <obj id="case" code="GNZKj74lSftdLQ0i" x="36" y="7" />
+    <obj id="case" code="wXIbXA7cKujqeF9b" x="19" y="23" />
+    <obj id="tumba2" code="ZxEZPPC6ayQASiJr" x="15" y="3" />
+    <obj id="tumba2" code="E7mbmDT9aUkhdgsj" x="40" y="15" />
+    <obj id="mcrate3" code="LSUXb4hgG8QBOuCq" x="12" y="15" />
+    <obj id="mcrate3" code="cUMzY8R30lFsGovy" x="41" y="19" />
+    <obj id="mcrate4" code="GdO4trNonEql79PP" x="7" y="23" />
+    <obj id="mcrate4" code="KCb3JyZlMr1T1Ar8" x="30" y="15" />
+    <obj id="bigbox" code="YoHloNOV0QG6Ol7d" x="19" y="4" />
+    <obj id="mcrate4" code="dT0TumWm4Jd6bCHc" x="28" y="3" />
+    <obj id="case" code="G1GwaCWBVgQii2LU" x="46" y="22" />
+    <obj id="term3" code="SHUNO9bBhIi1uyZo" x="6" y="22" />
+    <obj id="player" code="f0ggoMUOAvzsBy00" x="45" y="7" />
+    <obj id="basedoor" code="wD167ELf6OJgWSGI" x="34" y="3" />
+    <obj id="basedoor" code="tXmxExJVvrhx53lu" x="14" y="3" />
+    <obj id="window1" code="yelmxE3tfSDobzoZ" x="34" y="11" />
+    <obj id="lov" code="vsBEcHX502zvOwDr" x="9" y="23" />
+    <obj id="door1b" code="V0Y9q2MCNcinTmBg" x="34" y="15" />
+    <obj id="case" code="SwAJzTwRRhzaJ3YR" x="17" y="7" />
+    <back id="wires1" x="28" y="20" />
+    <back id="wires1" x="28" y="16" />
+    <back id="server" x="26" y="16" />
+    <back id="server" x="24" y="16" />
+    <back id="wires1" x="28" y="18" />
+    <back id="wires1" x="30" y="14" />
+    <back id="doorbase2" x="10" y="20" />
+    <back id="doorbase2" x="41" y="12" />
+    <back id="server" x="24" y="20" />
+    <back id="server" x="26" y="20" />
+    <back id="server" x="29" y="20" />
+    <back id="server" x="31" y="20" />
+    <back id="server" x="31" y="16" />
+    <obj id="enl2" code="FOuyx695jpB7onQ5" x="29" y="23" />
+    <back id="wires1" x="28" y="22" />
+    <back id="wires1" x="30" y="12" />
+    <back id="wires1" x="30" y="10" />
+    <back id="wires1" x="30" y="8" />
+    <back id="wires1" x="30" y="6" />
+    <back id="wires1" x="30" y="4" />
+    <back id="light6" x="15" y="11" />
+    <back id="light6" x="15" y="12" />
+    <back id="light6" x="15" y="13" />
+    <back id="light6" x="15" y="14" />
+    <back id="light6" x="15" y="15" />
+    <back id="light6" x="36" y="9" />
+    <back id="light6" x="36" y="10" />
+    <back id="light6" x="36" y="11" />
+    <back id="light6" x="36" y="12" />
+    <back id="light6" x="36" y="13" />
+    <back id="light6" x="36" y="14" />
+    <back id="light6" x="36" y="15" />
+    <back id="light6" x="45" y="10" />
+    <back id="light6" x="45" y="11" />
+    <back id="light6" x="45" y="12" />
+    <back id="light6" x="45" y="13" />
+    <back id="light6" x="45" y="14" />
+    <back id="light6" x="45" y="15" />
+    <back id="light6" x="4" y="3" />
+    <back id="light6" x="4" y="2" />
+    <back id="light6" x="4" y="1" />
+    <back id="fuse" x="43" y="17" />
+    <back id="fuse" x="39" y="17" />
+    <back id="electro" x="1" y="1" />
+    <back id="pult" x="23" y="14" />
+    <back id="pult" x="19" y="14" />
+    <back id="monitor" x="21" y="14" />
+    <back id="monitor" x="19" y="13" />
+    <back id="monitor" x="21" y="13" />
+    <back id="monitor" x="23" y="13" />
+    <back id="monitor" x="31" y="6" />
+    <back id="monitor" x="33" y="6" />
+    <back id="pult" x="31" y="7" />
+    <back id="wires2" x="14" y="18" />
+    <back id="wires2" x="14" y="20" />
+    <back id="wires2" x="14" y="22" />
+    <back id="konstr" x="7" y="4" />
+    <back id="konstr" x="7" y="8" />
+    <back id="konstr" x="12" y="4" />
+    <back id="konstr" x="12" y="8" />
+    <back id="konstr" x="12" y="12" />
+    <back id="konstr" x="38" y="8" />
+    <back id="konstr" x="38" y="12" />
+    <back id="konstr" x="42" y="0" />
+    <back id="generator" x="18" y="20" />
+    <back id="wires2" x="20" y="1" />
+    <back id="wires2" x="20" y="3" />
+    <back id="monitor2" x="2" y="7" />
+    <back id="monitor" x="2" y="21" />
+    <back id="monitor" x="2" y="22" />
+    <back id="electro" x="4" y="17" />
+    <back id="vents" x="17" y="6" />
+    <back id="vents" x="21" y="6" />
+    <obj id="enc1" code="Pbzl6dANBost9r0H" x="20" y="10" />
+    <doors>3.3.0.3.3.0.0.0.0.0.0.3.2.3.3.2.3.0.0.0.0.0</doors>
+    <options level="1" back="Krlx_аналитич.центр_back" />
+  </room>
   <room name="Krlx_климат.излучатели">
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._._._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
     <a>O._._._._._._._._G._G._._._.O._M._M._M._M._M._M._M.O._._._._.O._F._F._F._F._F._._._._._._._._._._O._O._._._._._</a>
@@ -5443,6 +5846,143 @@
     <doors>2.2.2.3.3.3.0.0.0.0.0.3.3.3.0.3.3.0.0.0.0.0</doors>
     <options level="1" back="Krlx_перекус.2_back" />
   </room>
+  <room name="Krlx_резервуар">
+    <a>A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.A.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>_C._C._C._C._C._C._C._C._F._F._F._U._G._G._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._S._S._U.A.O._._._._._._._F._F._F._F</a>
+    <a>_C._C._C._C._C._C._C._C._F._F._F._U._G._G._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._S._S._U.A.O._._._._._._._F._F._F._F</a>
+    <a>_C._C._C._C._C._C._C._C._F._F._F._U._G._G._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U.A.O._._._._._._._F._F._F._F</a>
+    <a>OC.OC.OC._FЕ._FЕ._FЕ._FЕ._FИ._FЕ._FЕ._FЕ.O.O.O.O.O.O.A.O.A.A.A.A.A._FБЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ._FЕ.A.A.A.O._Е._Е._Е.O.O.O._FЕ._FЕ._FЕ.OF</a>
+    <a>OC._C._C._C._C._C._CИ._C._C._C._C.O._._._.O.O.O.O.O.O.O.O.A._FБ._F._F._F._F._F._F._F._F._F.A.O.O.O._._._._O._O._O._F._F._F.OF</a>
+    <a>OC._C._C._C._C._CИ._C._C._C._C._C.O._._._._K._K._K._U._O._U._S.O.A._FБ*._F*._F*._F*._F*._F*._F*._F*._F*._F*.A.O._._._._._._._._._F._F._F._F</a>
+    <a>OF._F._F._F._FИ._F._F._F._C._C._C.O._._._._K._K._K._U._O._U._S.O.A._F*._F*._F*._F*._F*._F*._F*._F*._F*._F*.A.O._._._._._._._._._F._F._F._F</a>
+    <a>OF._FЕ._FЕ._FЕ._FЕ._FЕ._FИ._FЕ.O.O.O.O.O.O.O.O._UЕ._UЕ._UБ._O._U._S.O.A._F*._F*._F*._F*._F*._F*._F*._F*._F*._F*.A.O._._._._._._._._._F._F._F.OF</a>
+    <a>_F._F._F._F._F._FИ._F._F.O._U._U._U._U._U._U._U._U._U._UБ._U._U._S.O.A._F*._F*._F*._F*._F*._F*._F*._F*._F*._F*.A.O._._._._._._._._._F._F._F._F</a>
+    <a>_F._F._F._F._FИ._F._F._F._._U._U._U._U._U._U._U._U._U._UБ._U._U._S.O.A.AF._F*._F*._F*._F*._F*._F*._F*._F*.AF.A.O._._._._._._._._._F._F._F._F</a>
+    <a>_F._F._F._FИ._F._F._F._F._._U._U._U._U._U._U._U._U._U._UБ._U._U._U.O.A.AF.AF._F*._F*._F*._F*._F*._F*.AF.AF.A.O._._._._._._._._._F._F._F._F</a>
+    <a>OF._FЕ._FЕ._FЕ._FЕ.OF.OF.OF.O._U._U._U._U._U._U._U._U._U._UБ._U._U._U.O.O.AF.AF._F*._F*._F*._F*._F*._F*.AF.AF.O.O._._._._._._И._Е.O.OF.OF.OF.OF</a>
+    <a>OF._F._F._F._F._F._F._F.O._U._U._U._U._U._U._U._U._U._UБ._U._U._U.O.O.A.A.A.A.A.A.A.A.A.A.O.O._._._._._И._._._._._._._</a>
+    <a>_F._F._F._F._F._F._F._F._._U._U._U._U._U._U._UИ._UЕ._UЕ._UЕ._UЕ.O.O.O.O.O.A.A.A.A.A.A.A.A.O.O.O._Е._Е._Е._Е._Й._._._._._._._</a>
+    <a>_F._F._F._F._F._F._F._F._._U._U._U._U._U._UИ._U._U._U._O._O._U._._._._._._K._K._K._K._K._K._K._K._K._._._._._._._Й._._._._._._</a>
+    <a>O.O.O.O.O.O.O.O.O.OU._UЕ._UЕ._UЕ._UЕ._UЙ._U._U._U._O._O._U._._._._._._K._K._K._K._K._K._K._K._K._._._._._._._И._Е._Е._Е._Е._Е.O</a>
+    <a>O._B._B._B._B._B._B._B._B.OU._U._U._U._U._U._UЙ._U._U._O._O._U._._._._._._K._K._K._K._K._K._K._K._K._._._._._._И._._._._._._._</a>
+    <a>O._B._B._G._B._B._B._B._B._U._U._U._U._U._U._UИ._UЕ._UЕ._UЕ._UЕ.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._Е._Й._._._._._._._</a>
+    <a>O._B._B._G._B._B._B._B._B._U._U._U._U._U._UИ._U._U._U._U._U._U._U._U._U._U.OU.OU.OU.OU.OU.OU._K._K._K._K.O.O.O.O.O;._._Й._._._._._._</a>
+    <a>O.O.O.O.O.O.O.O.O.OU._UЕ._UЕ._UЕ._UЕ._UЙ._U._U._U._U._U._U._U._U._U._U._U._U._U._U.OU.OU._UЕ._UЕ._UЕ._UЕ.O.O.O.O.O.O.O.O.O._БЕ._Е.O.O</a>
+    <a>O._B._B._G._B._B._B._B._B.OU._U._U._U._U._U._UЙ._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._U._._._O._O._._._O._O._O._Б._._._</a>
+    <a>O._B._B._G._B._B._B._B._B._U._U._U._U._U._U._UИ._UЕ._UЕ._UЕ._UЕ._UЕ._UЙ._U._U._U._U._U._U._U._U._U._U._U._U._U._U._._O._O._._._O._O._O._Б._._._</a>
+    <a>O._B._B._G._B._B._B._B._B._U._U._U._U._U._UИ._U._U._U._U._U._U._U._UЙ._U._U._U._U._U._U._U._U._U._U._U._U._U._._O._O._._._O._O._O._Б._._._</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OU.OU.OU.OU.OU.OU.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <back id="light6" x="43" y="6" />
+    <obj id="hatch2" code="y4bXEZWg4d1dAYID" x="44" y="20" />
+    <obj id="door1a" code="W2Rrnet1k66s2Boj" x="9" y="23" />
+    <obj id="basedoor" code="zKlibWpSgbW8zszv" x="35" y="23" />
+    <obj id="enl2" code="ErddI05xqJwb1Ht7" x="44" y="11" />
+    <obj id="door1a" code="y3oa0SiqQ9MPKyC3" x="9" y="19" />
+    <obj id="door2a" code="N6sPMnCg7sj4FEXs" x="8" y="15" />
+    <obj id="player" code="fNYlZ5iD0Ynap1LB" x="41" y="3" />
+    <obj id="player" code="UWyasLOZgGuCI2Gs" x="8" y="7" />
+    <obj id="enc1" code="wO8pbPVLYvlmcV71" x="11" y="9" />
+    <obj id="enc1" code="pbdWGpWyWdUJdQNA" x="21" y="19" />
+    <obj id="hturret2" code="zTTOLzRIg3R2LDpP" x="2" y="1" />
+    <obj id="hturret2" code="U4v8QoAhCsmuADjC" x="2" y="5" />
+    <obj id="gutsy" code="yjB1B9EBn6tihLkB" x="14" y="3" />
+    <obj id="door4" code="HUg7GHblGdWs9lDF" x="17" y="3" />
+    <obj id="enl2" code="srSKT0a6evRkkCV3" x="28" y="23" />
+    <obj id="enc1" code="yP6IwftQHZbxuzT9" x="20" y="1" />
+    <obj id="basedoor" code="hnWjxI7vYsJDXquS" x="35" y="17" />
+    <obj id="mcrate3" code="zplubseiENfvbl9s" x="45" y="3" />
+    <obj id="mcrate3" code="gI0r7hWcj88Wbh5e" x="45" y="15" />
+    <obj id="mcrate3" code="dj0AY8BseJAC8T4B" x="5" y="11" />
+    <obj id="mcrate4" code="DqjCyajPGd4j4VVl" x="20" y="13" />
+    <obj id="wallsafe" code="ayIHcO6GOBv7bfuR" x="31" y="2" />
+    <obj id="case" code="bNJ5SuZP0rtQo2EQ" x="31" y="19" />
+    <obj id="case" code="GcKLVX8j70vMZFOP" x="32" y="19" />
+    <obj id="medbox" code="HEqdgAcFSs13m01h" x="5" y="22" />
+    <obj id="case" code="rl8w1q53rshg9rgs" x="4" y="19" />
+    <obj id="instr1" code="u5BrpCm7hidMpfgy" x="23" y="17" />
+    <obj id="table" code="S322qou9gK1bqbVf" x="8" y="3" />
+    <obj id="table" code="JO7vRaYP2ohxmlRu" x="25" y="23" />
+    <obj id="ammobox" code="G9ZxgUFzLHzycUdP" x="46" y="23" />
+    <obj id="case" code="s02uVWJqKyDS3Jwt" x="39" y="23" />
+    <obj id="basechest" code="A5PkvkATh2BvySq7" x="43" y="3" />
+    <obj id="ammobox" code="doBaUgbC0x16D2uk" x="10" y="7" />
+    <obj id="term1" code="ioTpk8KwpzSfp35s" x="13" y="6" />
+    <obj id="mcrate4" code="qLto9f1ntRK8TcwS" x="14" y="7" />
+    <obj id="tumba2" code="c3d3gKHVCPp9pSXt" x="21" y="17" />
+    <obj id="filecab" code="CbjPKwMvNVuHmRWZ" x="12" y="7" />
+    <obj id="enl2" code="UvssIHJQFbBS8XIm" x="12" y="19" />
+    <obj id="basedoor" code="WiUGIQIm627UYvSI" x="11" y="3" />
+    <back id="light6" x="43" y="7" />
+    <back id="wires2" x="18" y="9" />
+    <back id="light6" x="14" y="2" />
+    <back id="unitaz" x="1" y="22" />
+    <back id="rak" x="7" y="22" />
+    <back id="light6" x="30" y="21" />
+    <back id="light6" x="30" y="22" />
+    <back id="light6" x="30" y="23" />
+    <back id="light6" x="20" y="15" />
+    <back id="light6" x="20" y="16" />
+    <back id="light6" x="20" y="17" />
+    <back id="light6" x="14" y="1" />
+    <back id="light6" x="14" y="3" />
+    <back id="light6" x="43" y="5" />
+    <obj id="window2" code="MjOLTSIC07Fmis4H" x="8" y="11" />
+    <back id="light6" x="43" y="8" />
+    <back id="light6" x="43" y="9" />
+    <back id="light6" x="43" y="10" />
+    <back id="light6" x="43" y="11" />
+    <back id="light6" x="43" y="3" />
+    <back id="light6" x="43" y="2" />
+    <back id="light6" x="43" y="1" />
+    <back id="pipes" x="35" y="1" />
+    <back id="pipes" x="19" y="1" />
+    <back id="pult2" x="22" y="2" />
+    <back id="monitor" x="8" y="1" />
+    <back id="monitor" x="9" y="1" />
+    <back id="monitor" x="10" y="2" />
+    <back id="pult" x="8" y="2" />
+    <back id="generator" x="16" y="18" />
+    <back id="wires1" x="17" y="22" />
+    <back id="wires1" x="18" y="22" />
+    <back id="wires2" x="20" y="22" />
+    <back id="wires2" x="18" y="13" />
+    <back id="wires2" x="18" y="11" />
+    <back id="pipe4" x="19" y="22" />
+    <back id="wires2" x="18" y="7" />
+    <back id="wires2" x="18" y="5" />
+    <back id="bvent" x="21" y="19" />
+    <back id="electro" x="39" y="21" />
+    <back id="electro" x="44" y="21" />
+    <back id="electro" x="46" y="21" />
+    <back id="wires1" x="36" y="23" />
+    <back id="wires1" x="36" y="21" />
+    <back id="rak" x="7" y="18" />
+    <back id="unitaz" x="1" y="18" />
+    <back id="hrail" x="14" y="8" />
+    <back id="railing" x="31" y="3" />
+    <back id="railing" x="23" y="3" />
+    <back id="railing" x="27" y="3" />
+    <back id="konstr" x="42" y="12" />
+    <back id="konstr" x="42" y="16" />
+    <back id="vkonstr" x="14" y="21" />
+    <back id="vkonstr" x="14" y="18" />
+    <back id="vkonstr" x="14" y="15" />
+    <back id="vkonstr" x="14" y="12" />
+    <back id="vkonstr" x="14" y="9" />
+    <back id="konstr" x="42" y="4" />
+    <back id="konstr" x="42" y="8" />
+    <back id="storage" x="7" y="5" />
+    <back id="storage" x="3" y="5" />
+    <back id="storage" x="1" y="5" />
+    <back id="storage" x="4" y="1" />
+    <back id="storage" x="0" y="1" />
+    <back id="depot" x="32" y="21" />
+    <back id="depot" x="26" y="21" />
+    <back id="konstr" x="25" y="15" />
+    <back id="rangers" x="28" y="1" />
+    <doors>3.2.3.3.3.3.0.0.0.0.0.3.0.3.2.0.0.0.0.0.0.0</doors>
+    <options wrad="0" wopac="0.05" wtip="0" level="1" />
+  </room>
   <room name="Krlx_слив">
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
     <a>_F._F._F._F._F._F._._F._F._F._F.OF._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F</a>
@@ -6066,8 +6606,7 @@
     <a>_._._O._O._._._И._._._._U._U._O._O._O._O._O._O._O._O._U._U._U._U._U._U._U._U._O._O._O._O._O._O._O._O._U._U._._._._Й._._._._._._</a>
     <a>_._._O._O._._И._._._._._U._U._U._U._U._U._U._O._O._O._U._U._U._U._U._U._U._U._O._O._O._U._U._U._U._U._U._U._._._._._Й._._._._._</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <back id="vkonstr" x="13" y="12" />
-    <obj id="enc1" code="bclsRgaiuEWeiSH5" x="34" y="9" />
+    <back id="vkonstr" x="13" y="9" />
     <obj id="enc1" code="SjVXpaRieRvnIdUu" x="13" y="9" />
     <obj id="platform2" code="fL5K6C24VIjO6lfu" x="30" y="8" allid="top_lift">
       <move dx="-15" tstay="10" tmove="130" />
@@ -6124,6 +6663,8 @@
     <obj id="mcrate3" code="gWmnSz4HKWFndA4b" x="44" y="7" />
     <obj id="mcrate3" code="RoD6yIw76TE5ygP3" x="31" y="23" />
     <obj id="enl1" code="ZXwHlkDTfs10ZyhT" x="12" y="2" />
+    <obj id="enl1" code="qrc63czlLC8XKnnR" x="33" y="2" />
+    <back id="vkonstr" x="13" y="12" />
     <back id="vkonstr" x="13" y="15" />
     <back id="light6" x="36" y="17" />
     <back id="hrail" x="20" y="8" />
@@ -6137,8 +6678,7 @@
     <back id="hrail" x="18" y="20" />
     <back id="vkonstr" x="33" y="12" />
     <back id="hrail" x="30" y="20" />
-    <back id="vkonstr" x="13" y="9" />
-    <obj id="enl1" code="qrc63czlLC8XKnnR" x="33" y="2" />
+    <obj id="enc1" code="bclsRgaiuEWeiSH5" x="34" y="9" />
     <back id="vkonstr" x="33" y="9" />
     <back id="vkonstr" x="33" y="15" />
     <back id="vkonstr" x="6" y="15" />
@@ -6359,10 +6899,10 @@
     <a>_I._I._I._I._I._I._I._I._I._I._I._._I._I._I._I._._._._._._._._._._._._._._._._._Б._._._._._._._._._._._._._.O.O</a>
     <a>_I._I._I._I._I._I._I._I._I._I._I._._I._I._I._I._._._._._._._._._._._._._._._._._Б._._._O._O._._._._._._._._.O.O.O</a>
     <a>_I._I._I._I._I._I._I._I._I._I._I._._I._I._I._I._._._._._._._._._._._._._._._._._Б._._._O._O._._._._._._._._.O.O.O</a>
-    <a>O.O.O.O.O.O.O._Е._OЕ._OЕ.O.O.O.O.OF.OF.OF._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е.O.O.O.O.O.O._Е._Е._Й._._._._._.O.O.O</a>
-    <a>O.O.O.O.O.O.O._._O._O._._._.O._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._Й._._._._._._._</a>
-    <a>O.O.O.O._._._._._O._O._._._.O._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._Й._._._._._._</a>
-    <a>OG._G._._._._._._._._._._._.O._F._F._F._._._._._._._._._._._._._._._._._._.O._._._._._._._Й._._._._._</a>
+    <a>O.O.O.O.O.O.O._Е._OЕ._OЕ.O.O.O.O.OF.OF.OF._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е._Е.O.O.O.O.O.O.O.O._Е._Й._._._._.O.O.O</a>
+    <a>O.O.O.O.O.O.O._._O._O._._._.O._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._Й._._._._._._</a>
+    <a>O.O.O.O._._._._._O._O._._._.O._F._F._F._._._._._._._._._._._._._._._._._._._._._._._._._._Й._._._._._</a>
+    <a>OG._G._._._._._._._._._._._.O._F._F._F._._._._._._._._._._._._._._._._._._.O._._._._._._._._Й._._._._</a>
     <a>OG._G._._._._._._._._._._._.O._F._F._F._._._O._._._O._O._._._._._._._._._._._.O.O.O.O.O.O._БЕ._Е._Е._Е._Е._Е.O</a>
     <a>_G._G._._._._._._._._._._._.O._F._F._F._._._O._O._O._O._O._O._O._._._._._._._._._.O.O.O.O.O.O._Б._._._._._._</a>
     <a>_G._G._._._._._И._Е._Е._GЕ._Е._._.O._F._F._F._._._._._._O._O._O._O._._._._._._._._._.O.O.O.O.O.O._Б._._._._._._</a>
@@ -6372,16 +6912,14 @@
     <a>_._._._._G._._._Й._._G._._._._._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._._Б._._._._._._</a>
     <a>_._._._._G._._._._Й._G._._._._._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._F._._Б._._._._._._</a>
     <a>O._._._._G._._._._И._GЕ._Е._Е._Е.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <a>_._._._._G._._._И._._G._._._.O._O._O._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>_._._._._G._._._И._._G._._._.O._F._O._._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
     <a>_._._._._G._._И._._._G._._._._._O._O._._._O._._O._O._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
     <a>_._._._._G._И._._._._G._._._._._O._O._._._O._._O._O._.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <back id="wires2" x="32" y="14" />
-    <obj id="term2" code="W32bvk5Tds1tVRnO" x="23" y="18" />
-    <obj id="mcrate4" code="wXO0QdPOWmclX7lP" x="39" y="19" />
+    <back id="wires2" x="32" y="12" />
     <obj id="mcrate3" code="bPAHxVUpBrpJzffL" x="39" y="11" />
     <obj id="mcrate5" code="Ty7zIeiw2VmwZ7C5" x="2" y="7" />
-    <obj id="mcrate3" code="dgZnu79dIXvi0Xql" x="17" y="23" />
+    <obj id="mcrate3" code="dgZnu79dIXvi0Xql" x="18" y="23" />
     <obj id="wturret" code="j09RXzLSke8mFfLI" x="25" y="5" vis="right">
       <move dy="-3" tstay="30" tmove="60" />
     </obj>
@@ -6401,19 +6939,22 @@
     <obj id="basechest" code="XBWrfHhugiPVvU5w" x="21" y="23" />
     <obj id="case" code="VHAiFfVwJnk1pa5g" x="45" y="5" />
     <obj id="case" code="kxQuxUWmQjUIVzfI" x="13" y="2" />
-    <obj id="bigbox2" code="o1U7W4e4XCxy6iW3" x="14" y="23" />
+    <obj id="bigbox2" code="o1U7W4e4XCxy6iW3" x="15" y="23" />
     <obj id="mcrate3" code="RDGDhF4Ml63CNSEH" x="10" y="23" />
     <obj id="tumba2" code="AfrsAVXFzHAVydPW" x="32" y="19" />
     <obj id="instr1" code="H5WgSFDakDznVI8H" x="5" y="7" />
     <obj id="ammobox" code="ax1bT4JdQTBfrZPG" x="8" y="13" />
     <obj id="enl2" code="amZlX6jU5OZ0Tm13" x="29" y="19" />
-    <obj id="enl2" code="zA9aNyyJo3BtyXrJ" x="35" y="19" />
     <obj id="player" code="knPHjYVC3J3skMT1" x="3" y="15" />
     <obj id="player" code="GAKR11kUol09DYLe" x="40" y="3" />
     <obj id="door1a" code="Y3Pl8tQrkZEWJwED" x="36" y="3" />
     <obj id="door1b" code="aYmoy6fezrDa2FP1" x="13" y="23" />
     <obj id="area" code="ASrc1w3oHt1ILkiT" x="14" y="24" h="4" w="9" tileop="0.12" />
     <obj id="basedoor" code="isSyDvrkMjirX6yu" x="11" y="7" />
+    <obj id="term3" code="F985ncCXmC605h8z" x="19" y="18" />
+    <obj id="term2" code="W32bvk5Tds1tVRnO" x="23" y="18" />
+    <back id="wires1" x="33" y="14" />
+    <back id="wires2" x="32" y="14" />
     <back id="wires1" x="33" y="9" />
     <back id="wires1" x="33" y="11" />
     <back id="wires1" x="33" y="12" />
@@ -6445,9 +6986,7 @@
     <back id="wires2" x="31" y="14" />
     <back id="wires2" x="32" y="8" />
     <back id="wires2" x="32" y="10" />
-    <back id="wires2" x="32" y="12" />
-    <obj id="term3" code="F985ncCXmC605h8z" x="19" y="18" />
-    <back id="wires1" x="33" y="14" />
+    <obj id="mcrate4" code="wXO0QdPOWmclX7lP" x="39" y="19" />
     <back id="monitor2" x="17" y="11" />
     <back id="wires1" x="33" y="2" />
     <back id="wires1" x="33" y="0" />
@@ -6505,7 +7044,7 @@
     <back id="pult2" x="33" y="18" />
     <back id="wires1" x="15" y="8" />
     <back id="depot" x="16" y="21" />
-    <back id="rangers" x="10" y="16" />
+    <back id="rangers" x="10" y="17" />
     <back id="depot" x="38" y="1" />
     <back id="depot" x="40" y="1" />
     <back id="light6" x="2" y="11" />
@@ -7742,6 +8281,131 @@
     <doors>3.3.0.3.3.3.0.0.0.0.0.2.2.0.2.3.3.0.0.0.0.0</doors>
     <options level="1" />
   </room>
+  <room name="Krlx_аналитич.центр_back">
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.A.O.O.A.O.O.A.O.O.A.O.O.A.O.O.A.O.O.O.O.O.O.O.O.O.A.O.O.A.O.O.A.O.O.A.O.O.A.O.O.A.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O._._U._U._U._U._._G._U._U._U._U._U._F._F._F._F._F._F._F._F._F._F._._._G._._U._U._U._U._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O._._UЕ._UЕ._UЕ._UЕ._._G._U._U._U._U._U.OF.OF.OF._F._F._F._F.OF.OF.OF._._._G._._UЕ._UЕ._UЕ._UЕ._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O._._U._U._U._U._._G._U._U._U._U._U.O.O.OG._F._F.OG.OG.O.O.O._._._G._._U._U._U._U._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O._._._._._._G._._U._U._U._U._._G._U._U._U._U._U.O.O.OG._F._F.OG.OG._._._._._._G._._U._U._U._U._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O._._._._._._G._._UЕ._UЕ._UЕ._UЕ._._G._U._U._U._U._U.O.O.O._F._FА.O.O._._._._._._G._._UЕ._UЕ._UЕ._UЕ._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O._._._._._._G._._U._U._U._U._._G._U._U._U._U._U.O.O.O._F._FА.O.O._._._._._._G._._U._U._U._U._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O._._._._._._G._._U._U._U._U._._G._U._U._U._U._U.O.O.O._F._FА.O.O._._._._._._G._._U._U._U._U._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O._._._._._._G._.O.O.O.O._Е._GЕ._UЕ._UЕ._UЕ._UЕ._UЕ.O.O.O._F._FА.O.O._._._._._._G._.O.O.O.O._Е._GЕ._UЕ._UЕ._UЕ._UЕ._UЕ.O.O.O.O</a>
+    <a>O._._._._._._G._._K._K._K._K._._G._U._U._U._U._U.O.O.O._F._SА.OS.O._._._._._._G._._K._K._K._K._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O._._._._._._G._._K._K._K._K._._G._U._U._U._U._U.O.O.O._F._SА.OS.O._._F._F._._._G._._K._K._K._K._._G._U._U._U._U._U.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.OS.O.O.O.O.O.O.O.O.O.O._F._SА.OS.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.OS.O.O.O.O.O.O.O.O.O.O._F._FА.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O._._._._S._._._._S._S._S._S.O.O.O._F._FА.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O._._._._S._._._._S._S._S._S.O.O.O._F._FА.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O._._._._S._L._L._L._L._L._S._S._._._._F._FА.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O._._._._._L._L._L._L._L._S._S._._._._F._FА.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O._._._._._L._L._L._L._L._._._._._._F._FА.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
+    <back id="konstr" x="7" y="14" />
+    <obj id="hatch2" code="umJBYVr42sbIvPMA" x="22" y="8" />
+    <obj id="area" code="mdaDykkRG9WWnU6K" x="20" y="22" h="14" w="4" tileop="0.15" />
+    <obj id="inbasedoor" code="Wg7mVv3NgBW9FBjp" x="27" y="15" />
+    <obj id="lov" code="pLllbwnFih9xrr4o" x="16" y="22" />
+    <obj id="enl1" code="QxOXebWHD0pgekiL" x="9" y="9" />
+    <obj id="enl1" code="pF7pHHT78qEODRz6" x="11" y="12" />
+    <obj id="enl1" code="z8T1DD63gQgKOhrN" x="35" y="12" />
+    <obj id="enl1" code="DMa2OzReSKH3FhWm" x="13" y="22" />
+    <obj id="wturret" code="l2GK8s6VNG192KR4" x="16" y="8" vis="down" />
+    <obj id="wturret" code="x8vWSJB9cYXVXRSg" x="41" y="8" vis="down" />
+    <obj id="case" code="fgBoO2SRahV7OiyV" x="24" y="7" />
+    <obj id="weapbox" code="xYQ8oskh7WOQGhc2" x="8" y="22" />
+    <obj id="explbox" code="NP60QVhPovZawxLQ" x="18" y="22" />
+    <obj id="ammobox" code="VbDfrHedJ4ql9PCw" x="33" y="9" />
+    <obj id="ammobox" code="RW4d1V4MnxoKUCfJ" x="34" y="9" />
+    <obj id="ammobox" code="JDcLxbhqf3izMLFS" x="11" y="6" />
+    <obj id="ammobox" code="h7ixssB4a04AsM4D" x="9" y="12" />
+    <obj id="ammobox" code="ze43bWyNhocKrdSz" x="8" y="9" />
+    <obj id="explbox" code="weW6mRVdx9KZ93e8" x="11" y="9" />
+    <obj id="case" code="V4ILLu9CtXj4l8It" x="36" y="9" />
+    <obj id="case" code="IBjzziEgK442qwmY" x="8" y="12" />
+    <obj id="filecab" code="l8gQqqgHnhepas94" x="17" y="12" />
+    <obj id="filecab" code="SFBnYxRzGrFQuEGl" x="16" y="12" />
+    <obj id="filecab" code="dehXI4TLV3a9tbvt" x="15" y="12" />
+    <obj id="filecab" code="BrVyN2T3KRBELPxg" x="42" y="12" />
+    <obj id="filecab" code="a28iSzMi00mCTNlB" x="41" y="12" />
+    <obj id="filecab" code="O3L2fGjOrybLFRjq" x="14" y="12" />
+    <obj id="table" code="YFvf5YsiIn2GcNyf" x="39" y="15" />
+    <obj id="table" code="UD9QgPRv89vGfJp6" x="14" y="15" />
+    <obj id="mcrate4" code="Jn4SzCCLDROuCbzx" x="33" y="12" />
+    <obj id="mcrate3" code="szLC6o3TzSmzoV0z" x="9" y="15" />
+    <obj id="tumba2" code="nAMqaXNludS37vS4" x="35" y="15" />
+    <obj id="explbox" code="w54kIzurqs9Q5T8o" x="35" y="6" />
+    <obj id="trash" code="nmIRDqrkjojLXUcB" x="12" y="22" />
+    <back id="pipe2" x="7" y="20" />
+    <back id="light6" x="5" y="12" />
+    <back id="konstr" x="37" y="6" />
+    <back id="konstr" x="37" y="10" />
+    <back id="konstr" x="37" y="14" />
+    <back id="konstr" x="32" y="5" />
+    <back id="konstr" x="32" y="9" />
+    <back id="konstr" x="32" y="13" />
+    <back id="konstr" x="12" y="5" />
+    <back id="konstr" x="12" y="9" />
+    <back id="konstr" x="12" y="13" />
+    <back id="konstr" x="7" y="6" />
+    <back id="konstr" x="7" y="10" />
+    <obj id="inbasedoor" code="fCbLS3viOvn3Urj4" x="2" y="15" />
+    <back id="light6" x="1" y="9" />
+    <back id="light6" x="1" y="10" />
+    <back id="light6" x="1" y="11" />
+    <back id="light6" x="1" y="12" />
+    <back id="light6" x="1" y="13" />
+    <back id="light6" x="1" y="14" />
+    <back id="light6" x="1" y="15" />
+    <back id="light6" x="5" y="9" />
+    <back id="light6" x="5" y="10" />
+    <back id="light6" x="5" y="11" />
+    <back id="light6" x="5" y="13" />
+    <back id="light6" x="5" y="14" />
+    <back id="light6" x="5" y="15" />
+    <back id="light6" x="26" y="9" />
+    <back id="light6" x="26" y="10" />
+    <back id="light6" x="26" y="11" />
+    <back id="light6" x="26" y="13" />
+    <back id="light6" x="26" y="13" />
+    <back id="light6" x="26" y="14" />
+    <back id="light6" x="26" y="15" />
+    <back id="light6" x="26" y="12" />
+    <back id="light6" x="30" y="6" />
+    <back id="light6" x="30" y="7" />
+    <back id="light6" x="30" y="8" />
+    <back id="light6" x="30" y="9" />
+    <back id="light6" x="30" y="10" />
+    <back id="light6" x="30" y="11" />
+    <back id="light6" x="30" y="12" />
+    <back id="light6" x="30" y="13" />
+    <back id="light6" x="30" y="14" />
+    <back id="light6" x="30" y="15" />
+    <back id="pipe2" x="19" y="20" />
+    <back id="light1" x="9" y="19" />
+    <back id="light1" x="13" y="19" />
+    <back id="pipes2" x="15" y="17" />
+    <back id="pipe3" x="22" y="16" />
+    <back id="depot" x="42" y="13" />
+    <back id="depot" x="40" y="13" />
+    <back id="depot" x="17" y="13" />
+    <back id="depot" x="15" y="13" />
+    <back id="books" x="39" y="10" />
+    <back id="wires2" x="10" y="11" />
+    <back id="wires2" x="10" y="9" />
+    <back id="wires2" x="10" y="7" />
+    <back id="wires2" x="10" y="5" />
+    <back id="hkonstr" x="20" y="8" />
+    <back id="arc" x="20" y="10" />
+    <doors>0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0</doors>
+    <options tip="back" />
+  </room>
   <room name="Krlx_малая.генераторная_back">
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
     <a>O._._._._._._._._._._.O.O._U._U._U._U._U._U._U.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI._I._I.OI.OI.OI.OI.OI.OI.OI.OI.OI.OI.O.O.O.O.O</a>
@@ -7833,13 +8497,12 @@
     <a>O.O.O.O._GБ._C._C._C._C._C._C._CА.O.O.OI.O.O._I.O.O._G._O._._._._._._._И._Е._Е._Е.O.OU._UЕ._UЕ._UЕ._UЕ.OU.OU._U._U._U._U._U._U.O.O</a>
     <a>O.O.O.O._GБ._C._C._C._C._C._C._CА.O.O.OI.OI.OI._I.O.O._G._G._._._._._._И._._._._._._U._U._U._U._U._U._U._U._U._U._U._U._U.O.O</a>
     <a>O.O.A.A.A.A.A.A.A.A.A.A.A.A.O.O.O._I.OI._I._G._G._._._._._И._._._._._._._U._U._U._U._U._U._U._U._U._U._U._U._U.O.O</a>
-    <a>O.O.A.A.A.A.A.A.A.A.A.A.A.A.OI.OI.OI._I._I._I._G._G._._._._И._._._._._._._._U._U._U._U._U._U._U._U._U._U._U._U._U.O.O</a>
-    <a>O.O.O.A.A.A.A.A.A.A.A.A.A._I.O.O.O._I.O.O.O.O.O.O.O.O.O.O,.O;.O:._._._._U._U._U._U._U._U._U._U._U._U._U._U._U.O.O</a>
-    <a>O.O.O.O.O.O.O.O.O.O.O.O.O._I._I._I._I._I.O.O.O.O.O.O.O.O.O.O.O.O.O.O,.O;.O:U._U._U._U._U._U._U._U._U._U._U._U._U.O.O</a>
+    <a>O.O.A.A.A.A.A.A.A.A.A.A._I._I.OI.OI.OI._I._I._I._G._G._._._._И._._._._._._._._U._U._U._U._U._U._U._U._U._U._U._U._U.O.O</a>
+    <a>O.O.O.A.A.A.A.A.A.A.A.A._I._I.O.O.O._I.O.O.O.O.O.O.O.O.O.O,.O;.O:._._._._U._U._U._U._U._U._U._U._U._U._U._U._U.O.O</a>
+    <a>O.O.O.O.O.O.O.O.O.O.O.O._I._I._I._I._I._I.O.O.O.O.O.O.O.O.O.O.O.O.O.O,.O;.O:U._U._U._U._U._U._U._U._U._U._U._U._U.O.O</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.OU.OU.OU.OU.OU.OU.O,U.O;U.O:U._U._U._U._U._U._U._U._U.O.O</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <back id="rak" x="20" y="8" />
-    <obj id="landturret" code="N1LId5NzoqaAO1XS" x="6" y="18" />
+    <back id="light6" x="22" y="20" />
     <obj id="himlab" code="TfTIVWHgkAjPc1Lc" x="22" y="9" />
     <obj id="indoor4" code="Fx8xOXgW5XranJw9" x="6" y="7" />
     <obj id="inbasedoor" code="JlKk5a2YFoEXjcNk" x="25" y="9" />
@@ -7877,10 +8540,11 @@
     <obj id="enc1" code="hDZOX8yjNtNRBPu9" x="25" y="13" />
     <obj id="enl1" code="wsd37HxVhPi1tBqk" x="9" y="16" />
     <obj id="enl1" code="zgIbT0AUday6hT0V" x="2" y="13" />
+    <obj id="inbasedoor" code="KsroxnY87qMIoCvQ" x="43" y="23" />
+    <back id="rak" x="20" y="8" />
     <back id="light6" x="22" y="13" />
     <back id="light6" x="32" y="8" />
-    <back id="light6" x="22" y="20" />
-    <obj id="inbasedoor" code="KsroxnY87qMIoCvQ" x="43" y="23" />
+    <obj id="landturret" code="N1LId5NzoqaAO1XS" x="6" y="18" />
     <back id="light6" x="22" y="18" />
     <back id="light6" x="22" y="19" />
     <back id="light6" x="32" y="7" />
@@ -7922,6 +8586,7 @@
     <back id="konstr" x="13" y="11" />
     <back id="konstr" x="32" y="11" />
     <back id="konstr" x="32" y="13" />
+    <back id="vents" x="12" y="20" />
     <doors>0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0</doors>
     <options tip="back" />
   </room>
@@ -8275,10 +8940,10 @@
     <obj id="bigexpl" code="kbHQiYuk2PucBVJ5" x="39" y="20" />
     <obj id="inbasedoor" code="g8DM3E4BfXC07EcB" x="17" y="20" />
     <obj id="explbox" code="YPpyhRl53YQ9Ywnm" x="43" y="20" />
-    <obj id="cturret" code="J8WewvYJJPnlwSMi" x="32" y="6" />
     <obj id="grate" code="FWDBz1dMuzDxXB1R" x="45" y="13" />
     <obj id="armturret" code="OOEfH652ouKfdoXn" x="46" y="13" turn="-1" />
     <obj id="knop4" code="iJdHeSM5wN6Qciox" x="25" y="7" allact="swap" allid="ff" />
+    <obj id="case" code="gOd0taQ0V5QzyeoJ" x="26" y="18" />
     <back id="doorbase2" x="39" y="17" />
     <back id="generator" x="20" y="5" />
     <back id="wires1" x="19" y="7" />
@@ -8303,7 +8968,6 @@
     <back id="light6" x="31" y="7" />
     <back id="light6" x="31" y="8" />
     <back id="draw" x="22" y="14" />
-    <obj id="case" code="gOd0taQ0V5QzyeoJ" x="26" y="18" />
     <doors>0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0</doors>
     <options tip="back" />
   </room>
@@ -8449,8 +9113,7 @@
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._._._._._._._.O.O</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O._._._._._._._.O.O</a>
     <a>O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O.O</a>
-    <back id="light6" x="38" y="13" />
-    <obj id="hatch1" code="DyUWI2PlcFdUzU1Q" x="6" y="16" />
+    <back id="light6" x="38" y="14" />
     <obj id="wallsafe" code="uqU8Tt59bkoa7dwA" x="4" y="14" />
     <obj id="chest" code="fTPq6RkanEE1fajE" x="9" y="15" />
     <obj id="case" code="lx0vlrl2znBflabG" x="8" y="15" />
@@ -8463,14 +9126,15 @@
     <obj id="turret" code="owM9SmZ761YerlSR" x="30" y="9" />
     <obj id="armturret" code="Pt7yeUdH5K7sEUO0" x="16" y="15" turn="1" />
     <obj id="inbasedoor" code="DjAWzX315OSVyo3I" x="41" y="15" />
+    <obj id="inbasedoor" code="OZYG3bHz1lkW6pI9" x="19" y="19" />
+    <back id="light6" x="38" y="13" />
     <back id="light6" x="38" y="12" />
     <back id="vent" x="7" y="13" />
     <back id="door" x="9" y="13" />
     <back id="pipe4" x="3" y="14" />
     <back id="pipe4" x="3" y="12" />
     <back id="light6" x="38" y="15" />
-    <back id="light6" x="38" y="14" />
-    <obj id="inbasedoor" code="OZYG3bHz1lkW6pI9" x="19" y="19" />
+    <obj id="hatch1" code="DyUWI2PlcFdUzU1Q" x="6" y="16" />
     <back id="light6" x="23" y="19" />
     <back id="light6" x="23" y="18" />
     <back id="light6" x="23" y="17" />
